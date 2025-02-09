@@ -1,0 +1,1359 @@
+Hello and welcome to this short
+
+video, which will be an introduction to
+
+one of the most exciting and
+
+important projects of
+
+2025. This, ladies and
+
+gentlemen, is Crypto C
+
+Vest.
+
+OK, I'm Cryptosy. I have
+
+developed and built
+
+platforms such as Bidify and Vulcan
+
+Launchpad. I am one of the
+
+first members of the Cryptosy
+
+Dow which fingers crossed will be
+
+funding a portion of the development
+
+of this project as it will be receiving a
+
+portion of the fees for this project
+
+but. What is the project, why does it
+
+exist, and how we're going to build it?So
+
+first of all, Kryptosi Vest will
+
+be a customizable vesting
+
+platform. The idea being that you
+
+allow developers, or anyone really,
+
+to vest their tokens and
+
+have them released at varying
+
+times and over
+
+varying schedules now.
+
+This is not anything that is new.
+
+However, the way we're going to be doing
+
+it is going to be unique. So the USPS,
+
+the unique selling points for this
+
+particular platform. Will be twofold.
+
+First of all, we will have a price
+
+triggering mechanism. This means that
+
+devs can put their portion
+
+of the supply into cryptosy vest
+
+and it will not be released until the
+
+project reaches a certain milestone.
+
+The reason behind this thinking behind
+
+this is that it will incentivize the
+
+developers to get the price of
+
+their particular token up to a certain.
+
+Value before they can realise any of the
+
+benefits. It means they will be working
+
+for the community until such a point as
+
+they have achieved their job for the
+
+community, which will be getting their
+
+hope into a particular price. Of course,
+
+there is some game theory here which does
+
+say that when they get it to that price,
+
+what's to say that they won't just dump
+
+it immediately? So will people. Or will
+
+we always be selling just below that
+
+price? Of course you can always.
+
+Well not of course, but you will be able
+
+to move your tokens
+
+with invested project to. Higher
+
+price, but you will not be able to move
+
+them to a lower price. So what we
+
+probably will see happen, as we haven't
+
+seen that unfold yet, is we may see
+
+developers move a small portion of their
+
+or a big portion of their holdings at a
+
+certain price up to another price
+
+before their prices hit.
+
+This will give the community the.
+
+The knowledge that the developer is
+
+still evolved and he's still
+
+incentivizing himself. To keep on pushing
+
+higher and higher, the second unique
+
+selling point of Cryptosyfest will be the
+
+fee structure. What we're going to do is
+
+we're going to have currently, so this
+
+this may be subject to change, but
+
+currently we're looking to have a 5%
+
+fee, which will be a flat fee
+
+for all vested and will not be paid out
+
+until such a time as the token has
+
+reached its price target. Or is
+
+being released if it's just a regular
+
+linear or Cliff scheduling so
+
+it won't only be price. You can have lock
+
+up my tokens for six months or 12 months.
+
+And then release them one month at a time
+
+like regular schedule. It that's the
+
+case, the fees don't get released until
+
+the tokens are being released. The
+
+fee structure will have
+
+two components to it. There will be a
+
+2.5% flat fee which
+
+goes only.
+
+To the cryptosy down. I'm not quite sure
+
+what that special effect was just there
+
+behind me, but there will be a 2.5%
+
+fee which goes only to the cryptosyll
+
+that will fund further developments by
+
+the crypto sidel maintenance
+
+for the. Bidify
+
+platform for Vulcan, Launchpad for
+
+Cryptosyves, for all of those things
+
+moving forward. And there will also be a
+
+2.5% fee which
+
+is given to the vestin
+
+partner, which means every
+
+time a developer decides the vest, if he
+
+does it through a vesting partners
+
+website, that website will be
+
+eligible to claim. Their
+
+2.5% of the rested tokens upon
+
+their release at the release time.
+
+Because they will have a wallet which
+
+will be given over at the time of the
+
+vestin being made and then the vested
+
+tokens will go to that wallet. So it's
+
+really incentivizing partnerships down
+
+the line. We're hoping to get
+
+partnerships with the likes of Pump Dot
+
+Fund, for example, so that when a
+
+developer does launch a token and it goes
+
+to the bonding curve, there's
+
+automatically you know, that the
+
+developer cannot rug you until the
+
+token reaches a certain price. I think
+
+this aligns very well. With
+
+what the community of every
+
+single token wants, they want to have
+
+that that Peace of Mind.
+
+OK, so let's move on.
+
+OK, so we'll discuss what is
+
+Cryptosyvest. Just want to go through
+
+this brief presentation.
+
+We do have place fill up graphics in here
+
+which will give us an idea of the
+
+kind of look that we're going to be going
+
+for with the branding for
+
+Kryptosi Vest. Of course, this
+
+particular series will have maybe about
+
+10 episodes where we will cover every
+
+single step of the process of developing
+
+this project. So this one. For Sale will
+
+be an introduction. Then we're going to
+
+cover things like putting a brand
+
+together, putting A-Team together.
+
+There'll be an episode for the logic
+
+behind the project, which will go
+
+into great detail of how the user
+
+experience will be. Will be going to like
+
+a step by step of what it will be like to
+
+create a new vesting contract or to add
+
+to a new vesting contract, or to withdraw
+
+from a vesting contract at the correct
+
+time, and how to search to see if your
+
+token has a vesting. Tracked,
+
+we're also going to have
+
+episodes for the testing to show the
+
+testing for the wire framing that'll be
+
+enough for episode and for the design
+
+will be another episode and we'll have an
+
+episode for the smart contracts.
+
+And the team if I have not already set.
+
+So what are the the three main pillars
+
+of the cryptos? US, we
+
+want everything to be secure, which means
+
+that we're going to have to have audited
+
+smart contracts. We will more than
+
+likely use AI auditing as our first
+
+port of call. There are some very good
+
+AI code auditing software. Schools
+
+out there now on top of that we will
+
+endeavour to have a proper,
+
+shouldn't say proper, a more
+
+full AI, not AI sorry,
+
+and more full person LED on human
+
+lead auditing
+
+done by a top auditing firm that will
+
+probably carry that out after we get
+
+funding or grants from one of the EVM
+
+systems. That or EVM networks that we go
+
+with initially Cryptosyfest will be being
+
+aimed at the. Networks, so you're looking
+
+at Polygon base BNB,
+
+but we do hope to
+
+expand to Solana in our
+
+second or third version.
+
+And it's important that we start with the
+
+EVMS because we want to start with that
+
+added security and we feel like we could
+
+produce a more secure product if we build
+
+it on EVMS initially. Second to
+
+that, we will go for the largest market
+
+or the larger market, which will be
+
+Solana. And finally, we'll go for the
+
+growing markets, which will
+
+be TSUI and Aptos.
+
+So we want secure code, we want
+
+transparent, transparent platforms. So
+
+everything will be on the blockchain. All
+
+of the vesting contracts will be on the
+
+blockchain. Everything will be totally
+
+transparent. You will know how much is
+
+being invested. You will know who it is
+
+being invested by. You will know who they
+
+plan to pay the vesting out to because
+
+you can FEST tokens and not be the
+
+beneficiary of those tokens, you can.
+
+Tokens and then say 1-6 finished, I want
+
+it to go to the Dow or I want it to go to
+
+this particular charity or I want to go
+
+to this particular person. So you can
+
+have that type of vest in
+
+and the users will also know
+
+how long it's been invested for and what
+
+the actual terms of the release will also
+
+be. So all of those things will be
+
+covered in a transparent way by
+
+Cryptosyvest. Finally, we want everything
+
+to be user friendly. Through our Bidify
+
+and Vulcanoid, what we have managed to do
+
+is build amazingly user friendly
+
+products. Products that are.
+
+Very intuitive for people to use and are
+
+not confusing. Currently the
+
+scenario is that we know that there are
+
+token lockups, but we don't really know
+
+where to go to see these token lockups.
+
+And even if we can see them, it's very
+
+difficult for the average user to
+
+understand the meaning of these total
+
+lockups. What we may do, which is one of
+
+the future goals, if even have.
+
+A natural language AI agent plugged
+
+into the platform so people could ask it
+
+questions about the.
+
+Vesting contracts that they're looking
+
+at. For example they may ask when can
+
+the dev crash the price and how much
+
+influence would it have and the AI will
+
+look and it will see that the devs only
+
+got a small amount there and the rest
+
+in level is very high. So they say well
+
+the dev can't sell until the price
+
+reaches very high and with its small
+
+allocation that is vested you probably
+
+won't be able to move the price that
+
+much. Assuming that volumes grow.
+
+So those are the things that we want. One
+
+last thing on security which I failed to
+
+mention is that we will have some. Form
+
+of. Anti flash
+
+system. So what we don't want is we don't
+
+want somebody to be able to pump the
+
+price within a block and then
+
+withdraw their vested tokens
+
+and thus rub pool the people
+
+you can. This
+
+slightly beyond the scope of this video
+
+actually, but I'll go into it. You can
+
+flash loan, borrow money for one block
+
+and move the price of something and then.
+
+Give that money back within that same
+
+block. We definitely do not want that
+
+to happen. So we will be looking into how
+
+viable that is as a
+
+vulnerability. It may not be that liable
+
+and we will be making.
+
+Every effort to mitigate that. So
+
+let's move on. OK, so
+
+we discussed the key, the
+
+key advantages to Kurtosi Vest.
+
+We've got some very early stage mockups
+
+of what we think the dashboard will look
+
+like. We
+
+also. Want
+
+to I guess highlight the multi chain
+
+compatibility. So this
+
+platform like the Crypto C,
+
+like a bit of fire already has, will
+
+cover quite a lot of Evms. We're planning
+
+to have one or two at launch and
+
+maybe about a month later.
+
+9 or 10 and we want to go for the ones
+
+with the biggest volume and try to help
+
+them build out their own. It will
+
+initially be I guess mean coin.
+
+Sectors, but as mean coin
+
+tokenomics are becoming more popular in
+
+other projects, AI agents or things like
+
+that, which aren't mean quads, that token
+
+Onix or that token on the structure where
+
+you have 1 billion tokens and you have
+
+different entities receiving them at
+
+launch. That structure needs itself
+
+very well to also be used with
+
+cryptosyvest.
+
+The project is community driven, so
+
+hopefully it will be built with funding
+
+from Kurtosidou. I can't say it will be
+
+for sure now because we haven't actually
+
+put the proposal in at the time of making
+
+this video, as this video will be a part
+
+of the proposal.
+
+And real time tracking as I already spoke
+
+about. So what is the need for
+
+Cryptosyvest? As we all know, developers
+
+are rugging contracts. And
+
+projects left, right and centre.
+
+Often you will know, or some people will
+
+know that they're going to get rugged and
+
+they just buy anyway and hope that they
+
+can jump out before the developer does.
+
+Sometimes I guess they win, sometimes
+
+they don't have in.
+
+A absolute knowledge that the
+
+developer cannot rug with this particular
+
+amount of his coins is or
+
+tokens is a huge advantage
+
+for the user and I think it's something
+
+that developers will also want to
+
+leverage. We have to discuss a
+
+caveat, which will be that just
+
+because the developer labels this
+
+as a developer wallet or that was the
+
+wallet that created the token, it doesn't
+
+mean that developer or a cabal around
+
+him. Not own other tokens in other
+
+places, in other wallets that he has not
+
+rested. So this does not make everything
+
+absolutely foolproof. It is just yet
+
+enough a signal or another tool that
+
+people can use both to ensure trust,
+
+inspire trust from both ways.
+
+So for the community members to get trust
+
+on their developer and for the developer
+
+to inspire trust in themselves, there are
+
+tools like bubble maps. Which
+
+will help you to.
+
+See or identify if
+
+other entities have got clusters of large
+
+tokens and I guess we will cover
+
+that in a a
+
+later episode and hopefully we can get a
+
+partnership with them as well. We will
+
+definitely try.
+
+Also, another reason that we need it is
+
+that there isn't a robust and user
+
+friendly platform for vesting, so it
+
+really needs to be done. It's a part of
+
+the inner structure that doesn't quite
+
+yet exist and especially
+
+hasn't been incentivized. OK,
+
+so who are the builders? I am Fritosi, I
+
+am the project manager I
+
+guess and. I
+
+can't claim the idea for myself because
+
+it's an idea that has existed. I've we've
+
+just. Found some ways to improve upon
+
+the idea. Currently the developer who
+
+we will be tasking with building this
+
+will be a Snowman or Bino as he's
+
+also known. He was one of the
+
+developers in Bitter 5 in its early
+
+stages. So although he did not develop
+
+the smart contracts behind Bidify, he did
+
+improve them. He added a buy it
+
+now system. And
+
+he added, he's added quite a few things,
+
+but we do have a Meet the developer Park
+
+video on this channel with Snowman
+
+or Bino. So I will put a link to that in
+
+the description or you can just search
+
+the channel, Smartreach channel and you
+
+will find it. Biden has got a a
+
+long history of working with us. He's
+
+worked with us on quite a few things. So
+
+we're quite sure he will be able
+
+to pull this one off.
+
+And if he can't, we have other developers
+
+in the wings waiting to pick up where he
+
+left off. But we're confident he can
+
+build it. Early suggestions say
+
+that the development of the
+
+platform. Altogether will take possibly
+
+around two months, so we should be
+
+able to finish it in three
+
+good sprints. I would say each Sprint.
+
+Maybe last in two weeks.
+
+So we should be able to to do that.
+
+I think that's it with Barno.
+
+Sorry. Let's move on. OK, so what's our
+
+path to success? So this is a very
+
+loosely written
+
+road map.
+
+So we plan to launch Q
+
+12025. We want to be integrated
+
+with the lead the the leading blockchain
+
+networks, the top EVM chains.
+
+We really want to be with Solana as well,
+
+but it's a completely different
+
+technology. Solana is to a complete
+
+different technology to the EVM so.
+
+We can't as easily port from
+
+EVM to Solana as we can from EVM
+
+to another EVM. So we will start with the
+
+EVM as overall it's possibly
+
+slightly more market share
+
+expansion or functional features,
+
+features or functionality. At the end of
+
+this show, I will speak briefly
+
+to what features our
+
+functionality we are planning to add in
+
+the future. Partnerships with top
+
+blockchain projects. We will be working
+
+on that as soon as possible. This video
+
+will also serve as.
+
+A call to action for grant
+
+teams and.
+
+Other such funding methods which we will
+
+be applying for on the top ten
+
+Evms that we are planning to build on.
+
+So if we do get those grants or that
+
+funding, what it also hopefully will
+
+do is it will lead us to get connections
+
+to the other top projects on those
+
+networks. Which will
+
+enhance our ability to get
+
+partnerships.
+
+Finally, we want to have continued
+
+development and innovation similar
+
+to Bidify and Vulcan Launchpad once it's
+
+built. That's only the beginning. The
+
+plan is to keep it ahead of the game, to
+
+keep it up to date with the
+
+the growing, I
+
+guess, philosophies and
+
+ethos and functionality.
+
+Behind crypto. So
+
+that's how a new state based road map. Of
+
+course the road maps are always
+
+fluent and I expect this road map
+
+to become more fleshed out over time
+
+with time scales of when we plan to do
+
+these things. But now is a little bit too
+
+early to say, OK, so how
+
+are we going to ensure trust and safety?
+
+We touched on it before, so I'll keep it
+
+brief. We want auditable smart contracts.
+
+Auditable and verified, that's.
+
+I want the beauties of the EVM. You'll be
+
+able to see what exactly is you are
+
+working with and you can audit those
+
+contracts yourself if you want to, but
+
+we will audit them too. Anti
+
+flash mechanisms, how those will work at
+
+the moment is that the price will need to
+
+remain above a certain level for a
+
+certain length of time, so.
+
+We're thinking somewhere between 24
+
+hours to one week should be
+
+around the time that price should stay
+
+above a level before. Release is
+
+eligible and people can activate it. Once
+
+you activate release, which should be be
+
+which should be possible from any wallet.
+
+So it's not only the people who are old
+
+tokens that can activate the release. It
+
+should be anybody that can activate the
+
+release of these tokens. And we
+
+will have regular audits. The reason why
+
+we'll have regular audits is because
+
+we'll be having regular updates to the
+
+code base. Every time you have an update,
+
+you potentially introduce new
+
+vulnerabilities. Also, there are new
+
+vulnerabilities being found every day.
+
+So we will need to have regular audits.
+
+By regular I mean.
+
+Every six to 12 months, assuming there
+
+are no changes to
+
+the code base. Otherwise, anytime we make
+
+relevant or sizable changes to the code
+
+base, we should have another audit.
+
+OK. And that is it. So yeah,
+
+join us in revolutionising the blockchain
+
+and just making vesting
+
+a more.
+
+Accessible and useful tool
+
+for everybody involved. What
+
+I want to do, briefly is take you behind
+
+the scenes. So here's our.
+
+Working Document. This is a document that
+
+we work within as a team.
+
+We touch on, so we've got all of our
+
+dolls lined up just so that we're all on
+
+the same page. We've got all of our goals
+
+lined up and the things that are the most
+
+important. Oh, one thing I did touch on
+
+was the escape hatch, which will
+
+allow cryptosy Dow
+
+members to remove the whole
+
+funds of any particular.
+
+Investing contract should that contract
+
+for whatever reason no longer be fit for
+
+purpose? So if a developer
+
+accidentally says I want my token to
+
+reach. trillion, when
+
+really they meant I wanted to reach 1
+
+billion. Then we should be able to
+
+remove those funds to the
+
+cryptosyde out, and then from there send
+
+them to whoever needs them. That
+
+will come with a lot of bureaucracy. So
+
+chances are if you're a small project and
+
+you've made that mistake, it's going to
+
+be too bad, too sad. But that is one of
+
+the things that happens within blockchain
+
+anyway. We had the Dow. We've had things
+
+like that we've had. Accidental lockups
+
+like we did on, I want to say parity.
+
+Umm. And I've done it myself,
+
+so it does happen where you do lock
+
+things up. You got to take your time. If
+
+you don't, we do have an escape hatch,
+
+which will be like a worst case scenario
+
+system. That
+
+does obviously introduce its own issues,
+
+so the deployment of
+
+this escape hatch will be I guess.
+
+Possibly optional. So possibly if you
+
+don't want to have the escape hatch, you
+
+could possibly set up your existing
+
+contract without it being there and then.
+
+If you do it wrong or something gets
+
+locked in that testing contract, then
+
+you're on your own. So I think that makes
+
+sense actually.
+
+Specification, vesting schedules, price
+
+base, audited smart contracts,
+
+we discussed the the fees
+
+already and our milestones. We
+
+also discussed I think maybe this Q
+
+3 might be moved forward to Q2,
+
+possibly even Q1 if we can, if we can
+
+ship it in time. And then we have our our
+
+steps that will that will go through
+
+each step will be another episode. So
+
+create a team and the brand. Create a
+
+logic document, create a wireframes,
+
+create a front end, design
+
+smart contracts, back end, integrate,
+
+fully testing, launch and finally future
+
+features NFT beneficiaries.
+
+Instead of just your wallet being
+
+thing, you want it being tracked
+
+by the smart pun tracks
+
+that have the resting tokens. You may get
+
+an NFT. What that will mean is that you
+
+can trade your vested token so. I may
+
+have 1,000,000 vested
+
+cryptosy coins that I can only release
+
+when it reaches $1.00, but I may be able
+
+to sell that share for $100
+
+tosomebody who believes that
+
+we will reach that price more than I
+
+believe I reach that price. So that
+
+secondary market would be extremely
+
+interesting. So we are considering a
+
+building around that it it will also
+
+possibly provide another income source if
+
+there is. A Some sort of tax
+
+on the. Selling of
+
+the NFTS from one person to another.
+
+AI support I touched on monitor alerts
+
+would also be useful. So you may get a
+
+text message or a Telegram message or an
+
+e-mail to say that your
+
+token is near its resting target.
+
+It would be a lovely thing, like a
+
+celebration time. I'm about to be able
+
+to release some of my tokens. Vested
+
+liquidity will be, I guess, where
+
+we take the vested tokens.
+
+And we put them into.
+
+Liquidity pool and we then have the
+
+rewards from that liquidity pool be
+
+shared amongst all the people who have
+
+vested tokens, which would incentivise
+
+your community to come vest with you
+
+because they will then benefit from the
+
+trading fees as well as
+
+strengthening the tokenomics of their
+
+project. And then
+
+finally a faith-based
+
+audit. It's important
+
+that we build something that uses
+
+worldwide can get involved in. Which
+
+means it has to adhere to their
+
+their view of the world. And we have had
+
+some projects which we have decided not
+
+to build which. Impinge on
+
+certain people's faiths. So we're going
+
+to audit that. Not to say that if it
+
+doesn't align with a certain person's
+
+faith that we won't build it, but just
+
+that we're on top of that and we
+
+make sure that our users are also on top
+
+of that. So we can say this is
+
+OK for you to use as there are.
+
+Not
+
+overwhelmingly high interest
+
+being earned or usury or any of these
+
+other sorts of things that can turn up in
+
+this minefield of a world we have
+
+now where people from all over the world
+
+are expected to use the same tools. So
+
+I've been crypto. See, this has been your
+
+introduction to Cryptosyvest.
+
+I hope you have understood exactly what
+
+it is we are planning to do. To put it
+
+into a nutshell, in case you haven't, is.
+
+Develop underwater token. Developer
+
+locks up a certain amount of token.
+
+Developer can only take the token back
+
+when the project reaches a certain price.
+
+Developer then is super incentivized for
+
+the token to reach a certain price and he
+
+cannot take his ball and leave. He can
+
+leave if he wants to, but if he does, he
+
+is leaving that
+
+reward in the.
+
+In the vesting project, if the project
+
+dies, his portion of it dies with it.
+
+When we have NFTS, the developer will
+
+get an NFT, which makes the community
+
+take over of any type much
+
+more viable. The developer
+
+can then give the NFT to whoever decides
+
+to take over a project, and if they trust
+
+that developer not hiding another massive
+
+amount of tokens elsewhere, which they
+
+can verify to a degree by using bubble
+
+maps, they can at least mitigate it. Then
+
+they may buy the dev rights off of
+
+that guy and get the NFT. And then when I
+
+had to reach a certain light, then this
+
+new death can claim his
+
+rewards. That is, in a nutshell,
+
+what Cryptosy Rest will be doing. We are
+
+going to be building this regardless. So
+
+if you're watching this video because of
+
+a grant and you're considering whether or
+
+not to allow the
+
+grant. We're
+
+kind of oxygen out of courtesy. We're
+
+already building on networks where we are
+
+free to build anyway, so we are going to
+
+deploy on the network anyway. Regardless
+
+of whether or not you offer the grant, of
+
+course the grant will be nice. It will
+
+help us to add bells and whistles. We can
+
+pay for marketing or we can pay to
+
+have business developers reach out to
+
+other projects within that ecosystem.
+
+And also it's, it's more of a
+
+sign that you want us on the
+
+network, you want this product on the
+
+network and we go
+
+to where we are loved. As
+
+humans, we just do so.
+
+I've been crypto see you have been
+
+beautiful and hopefully
+
+I will see you in the next episode where
+
+we will discuss the brand
+
+and everything around that, which at
+
+this moment of time is actually complete.
+
+And I think we can
+
+see the logo up here just as a
+
+here's one we produced earlier. And
+
+this is going to be the the look
+
+of the site or the look of the brand.
+
+So facts watching and I will see
+
+you in the next one please.

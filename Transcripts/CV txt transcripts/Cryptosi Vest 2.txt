@@ -1,0 +1,451 @@
+Hello and welcome to Kryptosi Vest 2.
+
+This is a, I guess, state of the project
+
+video. We're going to release these
+
+videos along every step
+
+of the way until Cryptosy Vest is
+
+complete. This is the second
+
+episode. For the first episode, I guess
+
+you can go into description below. I'll
+
+put the first episode there, but.
+
+A quick recap, Kryptosi Vest is
+
+you can almost ignore this
+
+website we've got over this side
+
+here. You can always ignore it because
+
+it's a quick thing I had made-up
+
+by AI. So the
+
+the final landing page will not look like
+
+this. Just using this as a placeholder
+
+for now. So the website
+
+we've bought the domain will be
+
+cryptosyvest dot tech.
+
+Cryptosyst is a tool to
+
+shield you against rug pools. And
+
+it is completely decentralisable. It will
+
+be completely decentralised when it's
+
+complete. Currently we are in the
+
+development stage. We are just in the
+
+second stage of development out of the
+
+9 or 10 stages that I like to, I
+
+like to put and in this short video,
+
+what we're going to do is go through the
+
+stages of development that there will be
+
+in the future, as well as
+
+rounding up what's going to happen in
+
+this particular station at this
+
+particular stage is the. Picking
+
+of the team who from the cryptosy
+
+team will be the people
+
+to create and bring this
+
+cryptosyvest project to life.
+
+So in this.
+
+First thing we'll do is go through the
+
+steps, then we'll cover the team. So the
+
+steps are as follows. We developed
+
+the logo and the brand.
+
+No need to do a video for that really.
+
+The the logo is a Logan a brand is the
+
+brand. I will show you the logo very
+
+quickly though this will be the logo
+
+moving forward. And obviously the
+
+brand will be based around this
+
+particular symbol will be the logo
+
+and this font
+
+anti rug platform is the the line.
+
+So we know what it is we're doing
+
+so. Let's go
+
+to Yeah. So after
+
+that we will make a video about.
+
+Or hold on, maybe we've got we'll make a
+
+video about the team, which is really
+
+what we're making now. Then we're going
+
+to show you the logic document. Logic
+
+document is actually currently finished,
+
+but we won't show you that in this video.
+
+I'll make another video about that at a
+
+later date. There might be some
+
+changes needed to the logic document,
+
+maybe a few little tweaks here and there.
+
+We'll then create wireframes. Of course,
+
+the logic document will show. How a
+
+person will navigate through the
+
+application?The wire frames then brings
+
+that to life. So the wire frames are also
+
+completed. We're currently working on the
+
+front end Figma, which will be the
+
+designs, exactly how the app will
+
+look. We will create the smart contracts.
+
+That's going to be done by our developer.
+
+We will reveal who the developer will be
+
+very soon, integrate the
+
+two together. So front end and
+
+the smart contracts get integrated
+
+together. There will be a back end,
+
+but it will be a system so that.
+
+It's fully decentralised. Anybody can
+
+spin up their own back end. Anybody can
+
+have their own database and run their own
+
+version of Cryptosyst.
+
+We'll then go through testing. Testing
+
+will be done mostly by myself. I'll see
+
+if I can get some help and usability from
+
+the lights of Chocker Block, people like
+
+that. And then we launch.
+
+Then we start to consider future
+
+features. So who will
+
+be the developer
+
+for this particular project?
+
+And the developer will be
+
+this man. His name is
+
+Snowman, also known as Bino.
+
+He has done quite a lot of work for us in
+
+the past prior to going
+
+AWOL and then coming back.
+
+We can see his befores and his after.
+
+He's not actually on the team
+
+page at the moment, but we will put
+
+him on there prior to
+
+obviously paying him.
+
+He'll take one of these two placeholder
+
+spaces here, so he'll take over Jane
+
+Smith or Tom Black because those people
+
+don't actually exist. A
+
+little spoiler there with Amidas. So
+
+this will be our developer if we go and
+
+have a brief look, we can see in our
+
+GitHub for Bitify. He
+
+was Snowman 108. Heis now buying no
+
+snow. He has added
+
+by it now. He's done quite a lot of work
+
+on bit of Fire actually, and he also done
+
+quite a lot of work on Ruby swap so.
+
+Decent developer I would say. Possibly
+
+not our best but.
+
+Definitely more than capable of
+
+handling this project
+
+that we are currently building. Of course
+
+everything that he builds will be open
+
+source and everything that he builds will
+
+be audited. And realistically
+
+the whole point in decentralised open
+
+sourcesoftware is
+
+that we're not trusting the person who
+
+developed it. That's the reason why we
+
+have verified contracts and that's the
+
+reason why we have. Code audits.
+
+So we will be going through all of those
+
+things. Before the platform
+
+is launched. So Bino
+
+will be albino will be
+
+the developer behind it here he is here
+
+we there is already a
+
+YouTube video with Bino
+
+where you get to CNB interviewed by
+
+myself. That is me that gorgeous man
+
+there on the left hand side rocking my
+
+signature higher on base
+
+cap and.
+
+Yeah, so. If you want
+
+to know more about the developer, just go
+
+and check him out videos there
+
+on our YouTube. It's under the Crypto C
+
+team. Bunch of videos
+
+so that shouldn't shouldn't be too hard
+
+to find. We
+
+also need a person who will be
+
+in charge of doing the design,
+
+and that person is drum
+
+roll, Please Amide. There's Timothy,
+
+known in our discord as Figo
+
+Lord. He's done quite a lot of design
+
+work for us before. He's a Nigerian man,
+
+very, very talented designer,
+
+hard working and
+
+definitely somebody who we can rely
+
+on to bring. A nice
+
+vibrant. Wireframe to
+
+life. So we are
+
+delighted to have him available for
+
+this project. I really think that gives
+
+us a good chance to have a very, very
+
+nice front end for our
+
+first. Minimum viable
+
+product. So very, very happy to have
+
+Amidas on board or Figo Lord on
+
+board. He has worked with us before
+
+on Sunak means.
+
+I think that's the only roject he's
+
+worked with us on O This will be his
+
+second time but we were hay with what we
+
+got for cine memes so hopefully he can
+
+deliver the same standard of work and we
+
+can have a beautiful front end.
+
+Asides from that, I think
+
+that pretty much is it as far as
+
+testing is concerned. Like I said, it
+
+will more than likely be me doing the
+
+testing. If you are interested in
+
+testing, obviously you could join our
+
+discord as well as if you are
+
+interested in joining the team or being a
+
+part of this project, please join our
+
+discord. Everything we do always build in
+
+the open so anybody who wants to
+
+chip in can chip in. Being paid,
+
+obviously, is a different beast
+
+altogether. We are trying
+
+to eliminate
+
+fraudulent efforts to be
+
+paid by people who are not actually
+
+developers, which is the reason why the
+
+whole Cryptosy team came about, so that
+
+only the verified people can get paid.
+
+And we verify them obviously by having a
+
+video with them. And I'm never paying the
+
+same address. So that's the team that's
+
+going to be the team behind.
+
+Crypto C vest hopefully we should
+
+continue to.
+
+Build at this rapid pace, we're
+
+aiming for AQ1 launch.
+
+It's looking dicey at the moment,
+
+probably be Q2 at this point
+
+realistically, but the smart contract
+
+development is underway, the wireframes
+
+are complete and the design is now being
+
+created so.
+
+With any luck, we should be able to
+
+release in Q1 or maybe Q2,
+
+robably Q2. Anyway, thanks for watching.
+
+If you are interested in this project at
+
+all, make sure you follow me on Twitter.
+
+Alternatively, you can join our Discord.
+
+I will put the link in the description
+
+below and away from that. Thanks
+
+for watching and I look forward to seeing
+
+you using the Crypto C
+
+REST platform. Peace.

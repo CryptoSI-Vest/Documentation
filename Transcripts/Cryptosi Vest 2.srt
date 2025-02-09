@@ -1,0 +1,903 @@
+1
+00:00:00,850 --> 00:00:03,730
+Hello and welcome to Kryptosi Vest 2.
+
+2
+00:00:03,730 --> 00:00:06,490
+This is a, I guess, state of the project
+
+3
+00:00:06,490 --> 00:00:08,650
+video. We're going to release these
+
+4
+00:00:08,650 --> 00:00:11,490
+videos along every step
+
+5
+00:00:11,570 --> 00:00:14,450
+of the way until Cryptosy Vest is
+
+6
+00:00:14,450 --> 00:00:17,010
+complete. This is the second
+
+7
+00:00:17,010 --> 00:00:19,930
+episode. For the first episode, I guess
+
+8
+00:00:20,250 --> 00:00:22,690
+you can go into description below. I'll
+
+9
+00:00:22,690 --> 00:00:25,330
+put the first episode there, but.
+
+10
+00:00:26,350 --> 00:00:29,070
+A quick recap, Kryptosi Vest is
+
+11
+00:00:29,590 --> 00:00:31,910
+you can almost ignore this
+
+12
+00:00:32,110 --> 00:00:34,670
+website we've got over this side
+
+13
+00:00:34,750 --> 00:00:36,510
+here. You can always ignore it because
+
+14
+00:00:36,510 --> 00:00:38,630
+it's a quick thing I had made-up
+
+15
+00:00:39,030 --> 00:00:41,710
+by AI. So the
+
+16
+00:00:41,710 --> 00:00:43,710
+the final landing page will not look like
+
+17
+00:00:43,710 --> 00:00:45,230
+this. Just using this as a placeholder
+
+18
+00:00:45,230 --> 00:00:47,910
+for now. So the website
+
+19
+00:00:47,910 --> 00:00:49,830
+we've bought the domain will be
+
+20
+00:00:49,830 --> 00:00:52,070
+cryptosyvest dot tech.
+
+21
+00:00:53,840 --> 00:00:56,560
+Cryptosyst is a tool to
+
+22
+00:00:56,560 --> 00:00:59,390
+shield you against rug pools. And
+
+23
+00:00:59,390 --> 00:01:01,870
+it is completely decentralisable. It will
+
+24
+00:01:01,870 --> 00:01:03,470
+be completely decentralised when it's
+
+25
+00:01:03,470 --> 00:01:05,590
+complete. Currently we are in the
+
+26
+00:01:05,590 --> 00:01:07,550
+development stage. We are just in the
+
+27
+00:01:07,550 --> 00:01:10,350
+second stage of development out of the
+
+28
+00:01:10,430 --> 00:01:13,390
+ 9 or 10 stages that I like to, I
+
+29
+00:01:13,390 --> 00:01:16,190
+like to put and in this short video,
+
+30
+00:01:16,190 --> 00:01:18,190
+what we're going to do is go through the
+
+31
+00:01:18,190 --> 00:01:20,550
+stages of development that there will be
+
+32
+00:01:20,550 --> 00:01:22,870
+in the future, as well as
+
+33
+00:01:23,350 --> 00:01:25,590
+rounding up what's going to happen in
+
+34
+00:01:25,590 --> 00:01:26,830
+this particular station at this
+
+35
+00:01:26,830 --> 00:01:29,430
+particular stage is the. Picking
+
+36
+00:01:29,430 --> 00:01:32,390
+of the team who from the cryptosy
+
+37
+00:01:32,390 --> 00:01:35,030
+team will be the people
+
+38
+00:01:35,030 --> 00:01:37,510
+to create and bring this
+
+39
+00:01:37,510 --> 00:01:39,470
+cryptosyvest project to life.
+
+40
+00:01:40,310 --> 00:01:42,670
+So in this.
+
+41
+00:01:44,440 --> 00:01:46,280
+First thing we'll do is go through the
+
+42
+00:01:46,280 --> 00:01:48,640
+steps, then we'll cover the team. So the
+
+43
+00:01:48,640 --> 00:01:51,480
+steps are as follows. We developed
+
+44
+00:01:51,480 --> 00:01:53,640
+the logo and the brand.
+
+45
+00:01:55,840 --> 00:01:58,640
+No need to do a video for that really.
+
+46
+00:01:59,030 --> 00:02:00,870
+The the logo is a Logan a brand is the
+
+47
+00:02:00,870 --> 00:02:03,510
+brand. I will show you the logo very
+
+48
+00:02:03,510 --> 00:02:05,990
+quickly though this will be the logo
+
+49
+00:02:05,990 --> 00:02:08,950
+moving forward. And obviously the
+
+50
+00:02:08,950 --> 00:02:11,710
+brand will be based around this
+
+51
+00:02:11,710 --> 00:02:14,030
+particular symbol will be the logo
+
+52
+00:02:14,430 --> 00:02:16,550
+and this font
+
+53
+00:02:17,070 --> 00:02:19,950
+anti rug platform is the the line.
+
+54
+00:02:19,950 --> 00:02:21,710
+So we know what it is we're doing
+
+55
+00:02:23,030 --> 00:02:25,640
+so. Let's go
+
+56
+00:02:25,640 --> 00:02:28,280
+to Yeah. So after
+
+57
+00:02:28,280 --> 00:02:30,840
+that we will make a video about.
+
+58
+00:02:32,550 --> 00:02:34,990
+Or hold on, maybe we've got we'll make a
+
+59
+00:02:34,990 --> 00:02:37,110
+video about the team, which is really
+
+60
+00:02:37,110 --> 00:02:39,310
+what we're making now. Then we're going
+
+61
+00:02:39,310 --> 00:02:41,510
+to show you the logic document. Logic
+
+62
+00:02:41,510 --> 00:02:44,270
+document is actually currently finished,
+
+63
+00:02:44,830 --> 00:02:46,430
+but we won't show you that in this video.
+
+64
+00:02:46,430 --> 00:02:47,950
+I'll make another video about that at a
+
+65
+00:02:47,950 --> 00:02:50,750
+later date. There might be some
+
+66
+00:02:50,750 --> 00:02:52,710
+changes needed to the logic document,
+
+67
+00:02:53,110 --> 00:02:54,870
+maybe a few little tweaks here and there.
+
+68
+00:02:55,590 --> 00:02:57,830
+We'll then create wireframes. Of course,
+
+69
+00:02:57,830 --> 00:03:00,320
+the logic document will show. How a
+
+70
+00:03:00,320 --> 00:03:02,200
+person will navigate through the
+
+71
+00:03:02,200 --> 00:03:05,150
+application?The wire frames then brings
+
+72
+00:03:05,150 --> 00:03:07,230
+that to life. So the wire frames are also
+
+73
+00:03:07,230 --> 00:03:09,710
+completed. We're currently working on the
+
+74
+00:03:09,710 --> 00:03:11,990
+front end Figma, which will be the
+
+75
+00:03:11,990 --> 00:03:14,750
+designs, exactly how the app will
+
+76
+00:03:14,750 --> 00:03:17,590
+look. We will create the smart contracts.
+
+77
+00:03:17,590 --> 00:03:19,150
+That's going to be done by our developer.
+
+78
+00:03:19,150 --> 00:03:21,030
+We will reveal who the developer will be
+
+79
+00:03:21,030 --> 00:03:23,590
+very soon, integrate the
+
+80
+00:03:23,790 --> 00:03:26,750
+two together. So front end and
+
+81
+00:03:26,990 --> 00:03:28,430
+the smart contracts get integrated
+
+82
+00:03:28,430 --> 00:03:30,800
+together. There will be a back end,
+
+83
+00:03:31,600 --> 00:03:34,360
+but it will be a system so that.
+
+84
+00:03:34,910 --> 00:03:36,870
+It's fully decentralised. Anybody can
+
+85
+00:03:36,870 --> 00:03:38,870
+spin up their own back end. Anybody can
+
+86
+00:03:39,150 --> 00:03:40,990
+have their own database and run their own
+
+87
+00:03:40,990 --> 00:03:43,270
+version of Cryptosyst.
+
+88
+00:03:45,200 --> 00:03:47,000
+We'll then go through testing. Testing
+
+89
+00:03:47,000 --> 00:03:48,840
+will be done mostly by myself. I'll see
+
+90
+00:03:48,840 --> 00:03:51,240
+if I can get some help and usability from
+
+91
+00:03:51,240 --> 00:03:53,320
+the lights of Chocker Block, people like
+
+92
+00:03:53,320 --> 00:03:55,240
+that. And then we launch.
+
+93
+00:03:56,040 --> 00:03:57,760
+Then we start to consider future
+
+94
+00:03:57,760 --> 00:04:00,600
+features. So who will
+
+95
+00:04:00,600 --> 00:04:03,080
+be the developer
+
+96
+00:04:03,080 --> 00:04:05,600
+for this particular project?
+
+97
+00:04:06,430 --> 00:04:08,950
+And the developer will be
+
+98
+00:04:09,390 --> 00:04:12,030
+this man. His name is
+
+99
+00:04:12,030 --> 00:04:14,670
+Snowman, also known as Bino.
+
+100
+00:04:15,070 --> 00:04:17,590
+He has done quite a lot of work for us in
+
+101
+00:04:17,590 --> 00:04:20,230
+the past prior to going
+
+102
+00:04:20,230 --> 00:04:23,030
+AWOL and then coming back.
+
+103
+00:04:23,710 --> 00:04:26,390
+We can see his befores and his after.
+
+104
+00:04:26,390 --> 00:04:28,990
+He's not actually on the team
+
+105
+00:04:28,990 --> 00:04:31,950
+page at the moment, but we will put
+
+106
+00:04:31,950 --> 00:04:34,470
+him on there prior to
+
+107
+00:04:34,470 --> 00:04:35,990
+obviously paying him.
+
+108
+00:04:37,320 --> 00:04:39,160
+He'll take one of these two placeholder
+
+109
+00:04:39,200 --> 00:04:41,560
+spaces here, so he'll take over Jane
+
+110
+00:04:41,560 --> 00:04:43,040
+Smith or Tom Black because those people
+
+111
+00:04:43,040 --> 00:04:45,840
+don't actually exist. A
+
+112
+00:04:45,840 --> 00:04:48,400
+little spoiler there with Amidas. So
+
+113
+00:04:48,880 --> 00:04:51,400
+this will be our developer if we go and
+
+114
+00:04:51,400 --> 00:04:54,240
+have a brief look, we can see in our
+
+115
+00:04:54,240 --> 00:04:57,040
+GitHub for Bitify. He
+
+116
+00:04:57,040 --> 00:04:59,920
+was Snowman 108.  Heis now buying no
+
+117
+00:04:59,920 --> 00:05:02,800
+snow. He has added
+
+118
+00:05:02,800 --> 00:05:04,520
+by it now. He's done quite a lot of work
+
+119
+00:05:04,520 --> 00:05:06,680
+on bit of Fire actually, and he also done
+
+120
+00:05:06,680 --> 00:05:09,520
+quite a lot of work on Ruby swap so.
+
+121
+00:05:10,280 --> 00:05:13,040
+Decent developer I would say. Possibly
+
+122
+00:05:13,040 --> 00:05:14,560
+not our best but.
+
+123
+00:05:15,510 --> 00:05:18,030
+Definitely more than capable of
+
+124
+00:05:18,030 --> 00:05:20,670
+handling this project
+
+125
+00:05:20,670 --> 00:05:22,990
+that we are currently building. Of course
+
+126
+00:05:22,990 --> 00:05:24,310
+everything that he builds will be open
+
+127
+00:05:24,310 --> 00:05:26,470
+source and everything that he builds will
+
+128
+00:05:26,470 --> 00:05:28,990
+be audited. And realistically
+
+129
+00:05:29,230 --> 00:05:30,870
+the whole point in decentralised open
+
+130
+00:05:30,430 --> 00:05:33,310
+ sourcesoftware is
+
+131
+00:05:33,310 --> 00:05:35,350
+that we're not trusting the person who
+
+132
+00:05:35,350 --> 00:05:37,110
+developed it. That's the reason why we
+
+133
+00:05:37,110 --> 00:05:38,790
+have verified contracts and that's the
+
+134
+00:05:38,790 --> 00:05:41,400
+reason why we have. Code audits.
+
+135
+00:05:41,400 --> 00:05:43,280
+So we will be going through all of those
+
+136
+00:05:43,280 --> 00:05:46,240
+things. Before the platform
+
+137
+00:05:46,240 --> 00:05:49,160
+is launched. So Bino
+
+138
+00:05:49,160 --> 00:05:52,080
+will be albino will be
+
+139
+00:05:52,080 --> 00:05:54,360
+the developer behind it here he is here
+
+140
+00:05:54,560 --> 00:05:56,920
+we there is already a
+
+141
+00:05:57,040 --> 00:05:59,880
+YouTube video with Bino
+
+142
+00:05:59,880 --> 00:06:02,400
+where you get to CNB interviewed by
+
+143
+00:06:02,400 --> 00:06:04,680
+myself. That is me that gorgeous man
+
+144
+00:06:04,680 --> 00:06:07,400
+there on the left hand side rocking my
+
+145
+00:06:07,400 --> 00:06:09,920
+signature higher on base
+
+146
+00:06:09,960 --> 00:06:12,120
+cap and.
+
+147
+00:06:12,920 --> 00:06:15,870
+Yeah, so. If you want
+
+148
+00:06:15,870 --> 00:06:17,430
+to know more about the developer, just go
+
+149
+00:06:17,430 --> 00:06:20,230
+and check him out videos there
+
+150
+00:06:20,230 --> 00:06:23,030
+on our YouTube. It's under the Crypto C
+
+151
+00:06:23,030 --> 00:06:26,000
+team. Bunch of videos
+
+152
+00:06:26,000 --> 00:06:28,160
+so that shouldn't shouldn't be too hard
+
+153
+00:06:28,160 --> 00:06:30,670
+to find. We
+
+154
+00:06:30,670 --> 00:06:33,390
+also need a person who will be
+
+155
+00:06:33,670 --> 00:06:35,470
+in charge of doing the design,
+
+156
+00:06:36,630 --> 00:06:39,430
+and that person is drum
+
+157
+00:06:39,430 --> 00:06:41,310
+roll, Please Amide. There's Timothy,
+
+158
+00:06:41,470 --> 00:06:43,950
+known in our discord as Figo
+
+159
+00:06:43,950 --> 00:06:46,470
+Lord. He's done quite a lot of design
+
+160
+00:06:46,470 --> 00:06:49,270
+work for us before. He's a Nigerian man,
+
+161
+00:06:49,350 --> 00:06:51,110
+very, very talented designer,
+
+162
+00:06:52,110 --> 00:06:53,990
+hard working and
+
+163
+00:06:54,470 --> 00:06:57,310
+definitely somebody who we can rely
+
+164
+00:06:57,310 --> 00:06:59,920
+on to bring. A nice
+
+165
+00:07:00,000 --> 00:07:02,910
+vibrant. Wireframe to
+
+166
+00:07:02,910 --> 00:07:05,150
+life. So we are
+
+167
+00:07:05,350 --> 00:07:08,270
+delighted to have him available for
+
+168
+00:07:08,270 --> 00:07:10,390
+this project. I really think that gives
+
+169
+00:07:10,390 --> 00:07:12,990
+us a good chance to have a very, very
+
+170
+00:07:12,990 --> 00:07:15,910
+nice front end for our
+
+171
+00:07:16,190 --> 00:07:19,120
+first. Minimum viable
+
+172
+00:07:19,120 --> 00:07:21,840
+product. So very, very happy to have
+
+173
+00:07:21,960 --> 00:07:24,840
+Amidas on board or Figo Lord on
+
+174
+00:07:24,840 --> 00:07:27,800
+board. He has worked with us before
+
+175
+00:07:28,280 --> 00:07:29,920
+on Sunak means.
+
+176
+00:07:31,780 --> 00:07:33,180
+I think that's the only roject he's
+
+177
+00:07:33,180 --> 00:07:35,540
+worked with us on O This will be his
+
+178
+00:07:35,540 --> 00:07:37,300
+second time but we were hay with what we
+
+179
+00:07:37,300 --> 00:07:39,780
+got for cine memes so hopefully he can
+
+180
+00:07:39,780 --> 00:07:41,980
+deliver the same standard of work and we
+
+181
+00:07:41,980 --> 00:07:43,500
+can have a beautiful front end.
+
+182
+00:07:46,110 --> 00:07:48,390
+Asides from that, I think
+
+183
+00:07:48,990 --> 00:07:51,630
+that pretty much is it as far as
+
+184
+00:07:51,630 --> 00:07:52,990
+testing is concerned. Like I said, it
+
+185
+00:07:52,990 --> 00:07:55,310
+will more than likely be me doing the
+
+186
+00:07:55,310 --> 00:07:57,830
+testing. If you are interested in
+
+187
+00:07:57,830 --> 00:08:00,230
+testing, obviously you could join our
+
+188
+00:08:00,230 --> 00:08:02,870
+discord as well as if you are
+
+189
+00:08:02,870 --> 00:08:04,830
+interested in joining the team or being a
+
+190
+00:08:04,830 --> 00:08:06,910
+part of this project, please join our
+
+191
+00:08:06,910 --> 00:08:09,710
+discord. Everything we do always build in
+
+192
+00:08:09,710 --> 00:08:12,470
+the open so anybody who wants to
+
+193
+00:08:12,470 --> 00:08:15,280
+chip in can chip in. Being paid,
+
+194
+00:08:15,280 --> 00:08:17,120
+obviously, is a different beast
+
+195
+00:08:17,120 --> 00:08:19,790
+altogether. We are trying
+
+196
+00:08:19,790 --> 00:08:21,750
+to eliminate
+
+197
+00:08:21,830 --> 00:08:24,590
+fraudulent efforts to be
+
+198
+00:08:24,590 --> 00:08:26,070
+paid by people who are not actually
+
+199
+00:08:26,070 --> 00:08:28,790
+developers, which is the reason why the
+
+200
+00:08:28,790 --> 00:08:31,470
+whole Cryptosy team came about, so that
+
+201
+00:08:31,470 --> 00:08:33,390
+only the verified people can get paid.
+
+202
+00:08:33,590 --> 00:08:36,030
+And we verify them obviously by having a
+
+203
+00:08:36,030 --> 00:08:37,790
+video with them. And I'm never paying the
+
+204
+00:08:37,790 --> 00:08:40,710
+same address. So that's the team that's
+
+205
+00:08:40,710 --> 00:08:42,390
+going to be the team behind.
+
+206
+00:08:43,880 --> 00:08:46,560
+Crypto C vest hopefully we should
+
+207
+00:08:46,560 --> 00:08:48,000
+continue to.
+
+208
+00:08:49,470 --> 00:08:52,230
+Build at this rapid pace, we're
+
+209
+00:08:52,430 --> 00:08:54,550
+aiming for AQ1 launch.
+
+210
+00:08:54,590 --> 00:08:57,110
+It's looking dicey at the moment,
+
+211
+00:08:57,110 --> 00:08:59,070
+probably be Q2 at this point
+
+212
+00:08:59,070 --> 00:09:01,470
+realistically, but the smart contract
+
+213
+00:09:01,470 --> 00:09:04,390
+development is underway, the wireframes
+
+214
+00:09:04,390 --> 00:09:06,990
+are complete and the design is now being
+
+215
+00:09:06,990 --> 00:09:08,310
+created so.
+
+216
+00:09:10,650 --> 00:09:12,450
+With any luck, we should be able to
+
+217
+00:09:12,450 --> 00:09:14,970
+release in Q1 or maybe Q2,
+
+218
+00:09:14,970 --> 00:09:17,690
+robably Q2. Anyway, thanks for watching.
+
+219
+00:09:18,090 --> 00:09:19,930
+If you are interested in this project at
+
+220
+00:09:19,930 --> 00:09:22,810
+all, make sure you follow me on Twitter.
+
+221
+00:09:23,090 --> 00:09:25,930
+Alternatively, you can join our Discord.
+
+222
+00:09:25,970 --> 00:09:28,330
+I will put the link in the description
+
+223
+00:09:28,370 --> 00:09:31,290
+below and away from that. Thanks
+
+224
+00:09:31,290 --> 00:09:33,970
+for watching and I look forward to seeing
+
+225
+00:09:33,970 --> 00:09:36,650
+you using the Crypto C
+
+226
+00:09:36,650 --> 00:09:39,610
+REST platform. Peace.

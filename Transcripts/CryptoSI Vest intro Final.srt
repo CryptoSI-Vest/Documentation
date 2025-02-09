@@ -1,0 +1,2719 @@
+1
+00:00:00,750 --> 00:00:03,510
+Hello and welcome to this short
+
+2
+00:00:03,510 --> 00:00:05,950
+video, which will be an introduction to
+
+3
+00:00:05,950 --> 00:00:08,910
+one of the most exciting and
+
+4
+00:00:08,910 --> 00:00:10,670
+important projects of
+
+5
+00:00:10,710 --> 00:00:13,630
+ 2025. This, ladies and
+
+6
+00:00:13,630 --> 00:00:15,550
+gentlemen, is Crypto C
+
+7
+00:00:16,030 --> 00:00:16,710
+Vest.
+
+8
+00:00:20,220 --> 00:00:22,540
+OK, I'm Cryptosy. I have
+
+9
+00:00:22,780 --> 00:00:24,420
+developed and built
+
+10
+00:00:25,020 --> 00:00:27,780
+platforms such as Bidify and Vulcan
+
+11
+00:00:27,780 --> 00:00:30,620
+Launchpad. I am one of the
+
+12
+00:00:30,620 --> 00:00:33,140
+first members of the Cryptosy
+
+13
+00:00:33,140 --> 00:00:35,900
+Dow which fingers crossed will be
+
+14
+00:00:35,900 --> 00:00:38,380
+funding a portion of the development
+
+15
+00:00:38,740 --> 00:00:41,140
+of this project as it will be receiving a
+
+16
+00:00:41,140 --> 00:00:43,261
+portion of the fees for this project
+
+17
+00:00:43,981 --> 00:00:46,161
+but. What is the project, why does it
+
+18
+00:00:46,161 --> 00:00:49,071
+exist, and how we're going to build it?So
+
+19
+00:00:49,071 --> 00:00:51,071
+first of all, Kryptosi Vest will
+
+20
+00:00:51,071 --> 00:00:53,991
+be a customizable vesting
+
+21
+00:00:54,031 --> 00:00:56,911
+platform. The idea being that you
+
+22
+00:00:56,911 --> 00:00:59,751
+allow developers, or anyone really,
+
+23
+00:00:59,751 --> 00:01:02,551
+to vest their tokens and
+
+24
+00:01:02,551 --> 00:01:04,791
+have them released at varying
+
+25
+00:01:04,791 --> 00:01:06,871
+times and over
+
+26
+00:01:07,511 --> 00:01:09,071
+varying schedules now.
+
+27
+00:01:10,841 --> 00:01:12,241
+This is not anything that is new.
+
+28
+00:01:13,361 --> 00:01:14,921
+However, the way we're going to be doing
+
+29
+00:01:14,921 --> 00:01:17,241
+it is going to be unique. So the USPS,
+
+30
+00:01:17,241 --> 00:01:18,961
+the unique selling points for this
+
+31
+00:01:18,961 --> 00:01:21,911
+particular platform. Will be twofold.
+
+32
+00:01:21,911 --> 00:01:24,591
+First of all, we will have a price
+
+33
+00:01:24,591 --> 00:01:27,151
+triggering mechanism. This means that
+
+34
+00:01:27,151 --> 00:01:30,111
+devs can put their portion
+
+35
+00:01:30,111 --> 00:01:33,031
+of the supply into cryptosy vest
+
+36
+00:01:33,071 --> 00:01:34,751
+and it will not be released until the
+
+37
+00:01:34,751 --> 00:01:37,031
+project reaches a certain milestone.
+
+38
+00:01:38,271 --> 00:01:39,911
+The reason behind this thinking behind
+
+39
+00:01:39,911 --> 00:01:41,911
+this is that it will incentivize the
+
+40
+00:01:41,911 --> 00:01:44,511
+developers to get the price of
+
+41
+00:01:44,511 --> 00:01:47,191
+their particular token up to a certain.
+
+42
+00:01:48,361 --> 00:01:51,281
+Value before they can realise any of the
+
+43
+00:01:51,281 --> 00:01:53,671
+benefits. It means they will be working
+
+44
+00:01:53,671 --> 00:01:55,871
+for the community until such a point as
+
+45
+00:01:55,871 --> 00:01:57,791
+they have achieved their job for the
+
+46
+00:01:57,791 --> 00:01:59,671
+community, which will be getting their
+
+47
+00:02:00,471 --> 00:02:03,311
+hope into a particular price. Of course,
+
+48
+00:02:03,311 --> 00:02:05,192
+there is some game theory here which does
+
+49
+00:02:05,192 --> 00:02:06,992
+say that when they get it to that price,
+
+50
+00:02:07,152 --> 00:02:08,752
+what's to say that they won't just dump
+
+51
+00:02:08,752 --> 00:02:10,512
+it immediately? So will people. Or will
+
+52
+00:02:10,512 --> 00:02:12,272
+we always be selling just below that
+
+53
+00:02:12,272 --> 00:02:15,232
+price? Of course you can always.
+
+54
+00:02:15,232 --> 00:02:17,432
+Well not of course, but you will be able
+
+55
+00:02:17,432 --> 00:02:20,272
+to move your tokens
+
+56
+00:02:20,272 --> 00:02:22,752
+with invested project to. Higher
+
+57
+00:02:22,752 --> 00:02:24,752
+price, but you will not be able to move
+
+58
+00:02:24,752 --> 00:02:27,632
+them to a lower price. So what we
+
+59
+00:02:27,792 --> 00:02:30,312
+probably will see happen, as we haven't
+
+60
+00:02:30,312 --> 00:02:32,112
+seen that unfold yet, is we may see
+
+61
+00:02:32,112 --> 00:02:34,912
+developers move a small portion of their
+
+62
+00:02:34,912 --> 00:02:37,072
+or a big portion of their holdings at a
+
+63
+00:02:37,072 --> 00:02:39,432
+certain price up to another price
+
+64
+00:02:39,512 --> 00:02:41,272
+before their prices hit.
+
+65
+00:02:42,312 --> 00:02:44,992
+This will give the community the.
+
+66
+00:02:46,602 --> 00:02:49,122
+The knowledge that the developer is
+
+67
+00:02:49,122 --> 00:02:50,962
+still evolved and he's still
+
+68
+00:02:50,962 --> 00:02:53,952
+incentivizing himself. To keep on pushing
+
+69
+00:02:53,952 --> 00:02:56,912
+higher and higher, the second unique
+
+70
+00:02:56,912 --> 00:02:59,152
+selling point of Cryptosyfest will be the
+
+71
+00:02:59,152 --> 00:03:00,992
+fee structure. What we're going to do is
+
+72
+00:03:00,992 --> 00:03:03,872
+we're going to have currently, so this
+
+73
+00:03:04,112 --> 00:03:05,472
+this may be subject to change, but
+
+74
+00:03:05,472 --> 00:03:08,232
+currently we're looking to have a 5%
+
+75
+00:03:08,232 --> 00:03:10,952
+fee, which will be a flat fee
+
+76
+00:03:10,952 --> 00:03:13,392
+for all vested and will not be paid out
+
+77
+00:03:13,392 --> 00:03:16,032
+until such a time as the token has
+
+78
+00:03:16,032 --> 00:03:18,962
+reached its price target. Or is
+
+79
+00:03:18,962 --> 00:03:21,282
+being released if it's just a regular
+
+80
+00:03:21,282 --> 00:03:24,082
+linear or Cliff scheduling so
+
+81
+00:03:24,522 --> 00:03:26,722
+it won't only be price. You can have lock
+
+82
+00:03:26,722 --> 00:03:28,843
+up my tokens for six months or 12 months.
+
+83
+00:03:29,153 --> 00:03:31,033
+And then release them one month at a time
+
+84
+00:03:31,033 --> 00:03:32,513
+like regular schedule. It that's the
+
+85
+00:03:32,513 --> 00:03:35,113
+case, the fees don't get released until
+
+86
+00:03:35,713 --> 00:03:38,473
+the tokens are being released. The
+
+87
+00:03:38,473 --> 00:03:40,033
+fee structure will have
+
+88
+00:03:41,073 --> 00:03:43,313
+two components to it. There will be a
+
+89
+00:03:43,313 --> 00:03:45,753
+ 2.5% flat fee which
+
+90
+00:03:45,873 --> 00:03:47,393
+goes only.
+
+91
+00:03:49,123 --> 00:03:51,243
+To the cryptosy down. I'm not quite sure
+
+92
+00:03:51,243 --> 00:03:52,763
+what that special effect was just there
+
+93
+00:03:52,763 --> 00:03:55,723
+behind me, but there will be a 2.5%
+
+94
+00:03:55,723 --> 00:03:58,043
+fee which goes only to the cryptosyll
+
+95
+00:03:58,243 --> 00:04:00,803
+that will fund further developments by
+
+96
+00:04:00,803 --> 00:04:03,283
+the crypto sidel maintenance
+
+97
+00:04:03,283 --> 00:04:05,833
+for the. Bidify
+
+98
+00:04:05,833 --> 00:04:08,153
+platform for Vulcan, Launchpad for
+
+99
+00:04:08,153 --> 00:04:10,313
+Cryptosyves, for all of those things
+
+100
+00:04:10,313 --> 00:04:12,353
+moving forward. And there will also be a
+
+101
+00:04:12,353 --> 00:04:15,273
+ 2.5% fee which
+
+102
+00:04:15,273 --> 00:04:17,793
+is given to the vestin
+
+103
+00:04:17,793 --> 00:04:20,473
+partner, which means every
+
+104
+00:04:20,473 --> 00:04:23,113
+time a developer decides the vest, if he
+
+105
+00:04:23,113 --> 00:04:24,673
+does it through a vesting partners
+
+106
+00:04:24,673 --> 00:04:27,153
+website, that website will be
+
+107
+00:04:27,193 --> 00:04:30,123
+eligible to claim. Their
+
+108
+00:04:30,123 --> 00:04:33,003
+ 2.5% of the rested tokens upon
+
+109
+00:04:33,003 --> 00:04:35,403
+their release at the release time.
+
+110
+00:04:36,673 --> 00:04:38,393
+Because they will have a wallet which
+
+111
+00:04:38,393 --> 00:04:41,073
+will be given over at the time of the
+
+112
+00:04:41,073 --> 00:04:43,753
+vestin being made and then the vested
+
+113
+00:04:43,753 --> 00:04:46,313
+tokens will go to that wallet. So it's
+
+114
+00:04:46,313 --> 00:04:48,353
+really incentivizing partnerships down
+
+115
+00:04:48,353 --> 00:04:50,193
+the line. We're hoping to get
+
+116
+00:04:50,193 --> 00:04:52,074
+partnerships with the likes of Pump Dot
+
+117
+00:04:52,074 --> 00:04:53,914
+Fund, for example, so that when a
+
+118
+00:04:53,914 --> 00:04:55,834
+developer does launch a token and it goes
+
+119
+00:04:55,834 --> 00:04:57,114
+to the bonding curve, there's
+
+120
+00:04:57,114 --> 00:04:59,154
+automatically you know, that the
+
+121
+00:04:59,154 --> 00:05:01,994
+developer cannot rug you until the
+
+122
+00:05:01,994 --> 00:05:04,834
+token reaches a certain price. I think
+
+123
+00:05:04,834 --> 00:05:07,154
+this aligns very well. With
+
+124
+00:05:07,514 --> 00:05:10,394
+what the community of every
+
+125
+00:05:10,394 --> 00:05:12,154
+single token wants, they want to have
+
+126
+00:05:12,154 --> 00:05:13,994
+that that Peace of Mind.
+
+127
+00:05:15,034 --> 00:05:17,714
+OK, so let's move on.
+
+128
+00:05:24,084 --> 00:05:26,364
+OK, so we'll discuss what is
+
+129
+00:05:26,364 --> 00:05:28,524
+Cryptosyvest. Just want to go through
+
+130
+00:05:28,524 --> 00:05:31,084
+this brief presentation.
+
+131
+00:05:31,964 --> 00:05:34,884
+We do have place fill up graphics in here
+
+132
+00:05:34,884 --> 00:05:37,604
+which will give us an idea of the
+
+133
+00:05:37,604 --> 00:05:39,484
+kind of look that we're going to be going
+
+134
+00:05:39,484 --> 00:05:42,084
+for with the branding for
+
+135
+00:05:42,084 --> 00:05:45,004
+Kryptosi Vest. Of course, this
+
+136
+00:05:45,004 --> 00:05:46,724
+particular series will have maybe about
+
+137
+00:05:46,724 --> 00:05:48,884
+ 10 episodes where we will cover every
+
+138
+00:05:48,884 --> 00:05:51,284
+single step of the process of developing
+
+139
+00:05:51,284 --> 00:05:53,914
+this project. So this one. For Sale will
+
+140
+00:05:53,914 --> 00:05:55,394
+be an introduction. Then we're going to
+
+141
+00:05:55,394 --> 00:05:57,114
+cover things like putting a brand
+
+142
+00:05:57,114 --> 00:05:59,154
+together, putting A-Team together.
+
+143
+00:05:59,154 --> 00:06:01,874
+There'll be an episode for the logic
+
+144
+00:06:01,914 --> 00:06:04,674
+behind the project, which will go
+
+145
+00:06:04,674 --> 00:06:07,114
+into great detail of how the user
+
+146
+00:06:07,114 --> 00:06:09,354
+experience will be. Will be going to like
+
+147
+00:06:09,354 --> 00:06:11,874
+a step by step of what it will be like to
+
+148
+00:06:11,874 --> 00:06:14,355
+create a new vesting contract or to add
+
+149
+00:06:14,355 --> 00:06:16,835
+to a new vesting contract, or to withdraw
+
+150
+00:06:16,835 --> 00:06:18,875
+from a vesting contract at the correct
+
+151
+00:06:18,875 --> 00:06:21,475
+time, and how to search to see if your
+
+152
+00:06:21,475 --> 00:06:23,875
+token has a vesting. Tracked,
+
+153
+00:06:25,315 --> 00:06:27,955
+we're also going to have
+
+154
+00:06:27,995 --> 00:06:30,675
+episodes for the testing to show the
+
+155
+00:06:30,675 --> 00:06:33,155
+testing for the wire framing that'll be
+
+156
+00:06:33,155 --> 00:06:35,235
+enough for episode and for the design
+
+157
+00:06:35,235 --> 00:06:37,035
+will be another episode and we'll have an
+
+158
+00:06:37,035 --> 00:06:38,435
+episode for the smart contracts.
+
+159
+00:06:40,325 --> 00:06:41,805
+And the team if I have not already set.
+
+160
+00:06:42,605 --> 00:06:45,565
+So what are the the three main pillars
+
+161
+00:06:45,565 --> 00:06:48,165
+of the cryptos? US, we
+
+162
+00:06:48,165 --> 00:06:50,365
+want everything to be secure, which means
+
+163
+00:06:50,365 --> 00:06:52,685
+that we're going to have to have audited
+
+164
+00:06:52,685 --> 00:06:55,365
+smart contracts. We will more than
+
+165
+00:06:55,365 --> 00:06:58,285
+likely use AI auditing as our first
+
+166
+00:06:58,285 --> 00:07:01,005
+port of call. There are some very good
+
+167
+00:07:01,205 --> 00:07:04,195
+AI code auditing software. Schools
+
+168
+00:07:04,195 --> 00:07:06,835
+out there now on top of that we will
+
+169
+00:07:06,835 --> 00:07:09,435
+endeavour to have a proper,
+
+170
+00:07:09,435 --> 00:07:12,355
+shouldn't say proper, a more
+
+171
+00:07:12,355 --> 00:07:15,275
+full AI, not AI sorry,
+
+172
+00:07:15,595 --> 00:07:18,515
+and more full person LED on human
+
+173
+00:07:18,515 --> 00:07:20,715
+lead auditing
+
+174
+00:07:20,995 --> 00:07:23,315
+done by a top auditing firm that will
+
+175
+00:07:23,315 --> 00:07:25,435
+probably carry that out after we get
+
+176
+00:07:25,435 --> 00:07:28,075
+funding or grants from one of the EVM
+
+177
+00:07:28,115 --> 00:07:30,315
+systems. That or EVM networks that we go
+
+178
+00:07:30,315 --> 00:07:32,755
+with initially Cryptosyfest will be being
+
+179
+00:07:32,755 --> 00:07:35,475
+aimed at the. Networks, so you're looking
+
+180
+00:07:35,475 --> 00:07:37,556
+at Polygon base BNB,
+
+181
+00:07:37,716 --> 00:07:40,676
+but we do hope to
+
+182
+00:07:40,676 --> 00:07:43,596
+expand to Solana in our
+
+183
+00:07:43,596 --> 00:07:45,796
+second or third version.
+
+184
+00:07:46,236 --> 00:07:48,876
+And it's important that we start with the
+
+185
+00:07:48,876 --> 00:07:50,876
+EVMS because we want to start with that
+
+186
+00:07:50,876 --> 00:07:53,036
+added security and we feel like we could
+
+187
+00:07:53,036 --> 00:07:55,556
+produce a more secure product if we build
+
+188
+00:07:55,556 --> 00:07:58,516
+it on EVMS initially. Second to
+
+189
+00:07:58,516 --> 00:08:00,836
+that, we will go for the largest market
+
+190
+00:08:00,836 --> 00:08:02,596
+or the larger market, which will be
+
+191
+00:08:02,596 --> 00:08:05,036
+Solana. And finally, we'll go for the
+
+192
+00:08:05,076 --> 00:08:07,076
+growing markets, which will
+
+193
+00:08:07,076 --> 00:08:09,116
+be TSUI and Aptos.
+
+194
+00:08:10,076 --> 00:08:11,956
+So we want secure code, we want
+
+195
+00:08:12,276 --> 00:08:15,116
+transparent, transparent platforms. So
+
+196
+00:08:15,116 --> 00:08:16,676
+everything will be on the blockchain. All
+
+197
+00:08:16,676 --> 00:08:18,356
+of the vesting contracts will be on the
+
+198
+00:08:18,356 --> 00:08:20,316
+blockchain. Everything will be totally
+
+199
+00:08:20,316 --> 00:08:23,196
+transparent. You will know how much is
+
+200
+00:08:23,196 --> 00:08:24,836
+being invested. You will know who it is
+
+201
+00:08:24,836 --> 00:08:27,596
+being invested by. You will know who they
+
+202
+00:08:27,596 --> 00:08:29,676
+plan to pay the vesting out to because
+
+203
+00:08:29,676 --> 00:08:31,996
+you can FEST tokens and not be the
+
+204
+00:08:31,996 --> 00:08:33,516
+beneficiary of those tokens, you can.
+
+205
+00:08:33,716 --> 00:08:36,476
+Tokens and then say 1-6 finished, I want
+
+206
+00:08:36,476 --> 00:08:39,316
+it to go to the Dow or I want it to go to
+
+207
+00:08:39,436 --> 00:08:41,356
+this particular charity or I want to go
+
+208
+00:08:41,356 --> 00:08:43,356
+to this particular person. So you can
+
+209
+00:08:43,356 --> 00:08:44,996
+have that type of vest in
+
+210
+00:08:46,116 --> 00:08:49,076
+and the users will also know
+
+211
+00:08:49,076 --> 00:08:51,756
+how long it's been invested for and what
+
+212
+00:08:51,756 --> 00:08:54,716
+the actual terms of the release will also
+
+213
+00:08:54,716 --> 00:08:56,516
+be. So all of those things will be
+
+214
+00:08:56,516 --> 00:08:59,276
+covered in a transparent way by
+
+215
+00:08:59,276 --> 00:09:01,557
+Cryptosyvest. Finally, we want everything
+
+216
+00:09:01,557 --> 00:09:04,527
+to be user friendly. Through our Bidify
+
+217
+00:09:04,527 --> 00:09:06,887
+and Vulcanoid, what we have managed to do
+
+218
+00:09:07,047 --> 00:09:09,487
+is build amazingly user friendly
+
+219
+00:09:09,487 --> 00:09:11,047
+products. Products that are.
+
+220
+00:09:12,317 --> 00:09:14,797
+Very intuitive for people to use and are
+
+221
+00:09:14,797 --> 00:09:17,317
+not confusing. Currently the
+
+222
+00:09:17,317 --> 00:09:20,277
+scenario is that we know that there are
+
+223
+00:09:20,277 --> 00:09:22,517
+token lockups, but we don't really know
+
+224
+00:09:22,517 --> 00:09:25,077
+where to go to see these token lockups.
+
+225
+00:09:25,077 --> 00:09:27,157
+And even if we can see them, it's very
+
+226
+00:09:27,157 --> 00:09:28,917
+difficult for the average user to
+
+227
+00:09:28,917 --> 00:09:31,037
+understand the meaning of these total
+
+228
+00:09:31,037 --> 00:09:33,757
+lockups. What we may do, which is one of
+
+229
+00:09:33,757 --> 00:09:36,277
+the future goals, if even have.
+
+230
+00:09:36,767 --> 00:09:39,567
+A natural language AI agent plugged
+
+231
+00:09:39,567 --> 00:09:41,727
+into the platform so people could ask it
+
+232
+00:09:41,727 --> 00:09:43,527
+questions about the.
+
+233
+00:09:44,847 --> 00:09:46,487
+Vesting contracts that they're looking
+
+234
+00:09:46,567 --> 00:09:49,407
+at. For example they may ask when can
+
+235
+00:09:49,407 --> 00:09:52,047
+the dev crash the price and how much
+
+236
+00:09:52,327 --> 00:09:54,367
+influence would it have and the AI will
+
+237
+00:09:54,367 --> 00:09:55,847
+look and it will see that the devs only
+
+238
+00:09:55,847 --> 00:09:58,727
+got a small amount there and the rest
+
+239
+00:09:58,727 --> 00:10:00,847
+in level is very high. So they say well
+
+240
+00:10:00,847 --> 00:10:03,127
+the dev can't sell until the price
+
+241
+00:10:03,127 --> 00:10:04,767
+reaches very high and with its small
+
+242
+00:10:04,767 --> 00:10:06,767
+allocation that is vested you probably
+
+243
+00:10:06,767 --> 00:10:08,007
+won't be able to move the price that
+
+244
+00:10:08,007 --> 00:10:10,447
+much. Assuming that volumes grow.
+
+245
+00:10:10,927 --> 00:10:12,887
+So those are the things that we want. One
+
+246
+00:10:12,887 --> 00:10:15,567
+last thing on security which I failed to
+
+247
+00:10:15,567 --> 00:10:18,037
+mention is that we will have some. Form
+
+248
+00:10:18,037 --> 00:10:20,927
+of. Anti flash
+
+249
+00:10:22,047 --> 00:10:24,288
+system. So what we don't want is we don't
+
+250
+00:10:24,288 --> 00:10:26,128
+want somebody to be able to pump the
+
+251
+00:10:26,128 --> 00:10:28,368
+price within a block and then
+
+252
+00:10:28,968 --> 00:10:31,928
+withdraw their vested tokens
+
+253
+00:10:31,928 --> 00:10:34,488
+and thus rub pool the people
+
+254
+00:10:34,808 --> 00:10:37,528
+you can. This
+
+255
+00:10:37,688 --> 00:10:39,248
+slightly beyond the scope of this video
+
+256
+00:10:39,248 --> 00:10:41,688
+actually, but I'll go into it. You can
+
+257
+00:10:41,768 --> 00:10:44,328
+flash loan, borrow money for one block
+
+258
+00:10:44,368 --> 00:10:47,128
+and move the price of something and then.
+
+259
+00:10:48,158 --> 00:10:50,038
+Give that money back within that same
+
+260
+00:10:50,038 --> 00:10:52,998
+block. We definitely do not want that
+
+261
+00:10:52,998 --> 00:10:55,798
+to happen. So we will be looking into how
+
+262
+00:10:55,798 --> 00:10:58,038
+viable that is as a
+
+263
+00:10:59,078 --> 00:11:01,438
+vulnerability. It may not be that liable
+
+264
+00:11:01,438 --> 00:11:03,118
+and we will be making.
+
+265
+00:11:04,808 --> 00:11:07,608
+Every effort to mitigate that. So
+
+266
+00:11:08,488 --> 00:11:11,288
+let's move on. OK, so
+
+267
+00:11:11,288 --> 00:11:13,928
+we discussed the key, the
+
+268
+00:11:13,928 --> 00:11:16,368
+key advantages to Kurtosi Vest.
+
+269
+00:11:18,408 --> 00:11:21,248
+We've got some very early stage mockups
+
+270
+00:11:21,248 --> 00:11:23,608
+of what we think the dashboard will look
+
+271
+00:11:23,608 --> 00:11:26,488
+like. We
+
+272
+00:11:26,488 --> 00:11:29,168
+also. Want
+
+273
+00:11:29,568 --> 00:11:31,848
+to I guess highlight the multi chain
+
+274
+00:11:31,848 --> 00:11:34,128
+compatibility. So this
+
+275
+00:11:35,048 --> 00:11:37,368
+platform like the Crypto C,
+
+276
+00:11:37,888 --> 00:11:40,088
+like a bit of fire already has, will
+
+277
+00:11:40,088 --> 00:11:42,688
+cover quite a lot of Evms. We're planning
+
+278
+00:11:42,688 --> 00:11:45,328
+to have one or two at launch and
+
+279
+00:11:45,328 --> 00:11:47,089
+maybe about a month later.
+
+280
+00:11:48,639 --> 00:11:50,679
+9 or 10 and we want to go for the ones
+
+281
+00:11:50,679 --> 00:11:52,799
+with the biggest volume and try to help
+
+282
+00:11:52,799 --> 00:11:55,199
+them build out their own. It will
+
+283
+00:11:55,199 --> 00:11:57,799
+initially be I guess mean coin.
+
+284
+00:12:00,049 --> 00:12:02,809
+Sectors, but as mean coin
+
+285
+00:12:02,809 --> 00:12:05,329
+tokenomics are becoming more popular in
+
+286
+00:12:05,329 --> 00:12:07,249
+other projects, AI agents or things like
+
+287
+00:12:07,249 --> 00:12:10,049
+that, which aren't mean quads, that token
+
+288
+00:12:10,049 --> 00:12:11,849
+Onix or that token on the structure where
+
+289
+00:12:11,849 --> 00:12:13,969
+you have 1 billion tokens and you have
+
+290
+00:12:13,969 --> 00:12:16,329
+different entities receiving them at
+
+291
+00:12:16,329 --> 00:12:19,079
+launch. That structure needs itself
+
+292
+00:12:19,079 --> 00:12:21,279
+very well to also be used with
+
+293
+00:12:21,279 --> 00:12:22,159
+cryptosyvest.
+
+294
+00:12:25,049 --> 00:12:27,489
+The project is community driven, so
+
+295
+00:12:27,729 --> 00:12:29,729
+hopefully it will be built with funding
+
+296
+00:12:29,809 --> 00:12:32,009
+from Kurtosidou. I can't say it will be
+
+297
+00:12:32,009 --> 00:12:34,169
+for sure now because we haven't actually
+
+298
+00:12:34,169 --> 00:12:35,809
+put the proposal in at the time of making
+
+299
+00:12:35,809 --> 00:12:38,489
+this video, as this video will be a part
+
+300
+00:12:38,489 --> 00:12:39,489
+of the proposal.
+
+301
+00:12:41,649 --> 00:12:43,809
+And real time tracking as I already spoke
+
+302
+00:12:43,809 --> 00:12:45,489
+about. So what is the need for
+
+303
+00:12:45,489 --> 00:12:48,009
+Cryptosyvest? As we all know, developers
+
+304
+00:12:48,009 --> 00:12:50,919
+are rugging contracts. And
+
+305
+00:12:51,039 --> 00:12:52,599
+projects left, right and centre.
+
+306
+00:12:54,569 --> 00:12:56,449
+Often you will know, or some people will
+
+307
+00:12:56,449 --> 00:12:58,169
+know that they're going to get rugged and
+
+308
+00:12:58,169 --> 00:12:59,769
+they just buy anyway and hope that they
+
+309
+00:12:59,769 --> 00:13:02,369
+can jump out before the developer does.
+
+310
+00:13:02,849 --> 00:13:05,169
+Sometimes I guess they win, sometimes
+
+311
+00:13:05,169 --> 00:13:07,049
+they don't have in.
+
+312
+00:13:08,519 --> 00:13:11,120
+A absolute knowledge that the
+
+313
+00:13:11,120 --> 00:13:13,480
+developer cannot rug with this particular
+
+314
+00:13:13,480 --> 00:13:16,320
+amount of his coins is or
+
+315
+00:13:16,320 --> 00:13:18,1000
+tokens is a huge advantage
+
+316
+00:13:19,040 --> 00:13:21,120
+for the user and I think it's something
+
+317
+00:13:21,120 --> 00:13:23,760
+that developers will also want to
+
+318
+00:13:23,760 --> 00:13:26,640
+leverage. We have to discuss a
+
+319
+00:13:26,640 --> 00:13:29,040
+caveat, which will be that just
+
+320
+00:13:29,040 --> 00:13:31,840
+because the developer labels this
+
+321
+00:13:31,840 --> 00:13:33,440
+as a developer wallet or that was the
+
+322
+00:13:33,440 --> 00:13:35,360
+wallet that created the token, it doesn't
+
+323
+00:13:35,360 --> 00:13:38,080
+mean that developer or a cabal around
+
+324
+00:13:38,080 --> 00:13:40,880
+him. Not own other tokens in other
+
+325
+00:13:40,880 --> 00:13:43,800
+places, in other wallets that he has not
+
+326
+00:13:43,800 --> 00:13:46,520
+rested. So this does not make everything
+
+327
+00:13:46,520 --> 00:13:48,920
+absolutely foolproof. It is just yet
+
+328
+00:13:48,920 --> 00:13:51,160
+enough a signal or another tool that
+
+329
+00:13:51,160 --> 00:13:54,080
+people can use both to ensure trust,
+
+330
+00:13:54,080 --> 00:13:56,920
+inspire trust from both ways.
+
+331
+00:13:56,920 --> 00:13:59,720
+So for the community members to get trust
+
+332
+00:13:59,720 --> 00:14:01,920
+on their developer and for the developer
+
+333
+00:14:01,920 --> 00:14:04,080
+to inspire trust in themselves, there are
+
+334
+00:14:04,080 --> 00:14:06,490
+tools like bubble maps. Which
+
+335
+00:14:06,570 --> 00:14:08,730
+will help you to.
+
+336
+00:14:09,440 --> 00:14:12,280
+See or identify if
+
+337
+00:14:12,320 --> 00:14:14,840
+other entities have got clusters of large
+
+338
+00:14:14,840 --> 00:14:17,800
+tokens and I guess we will cover
+
+339
+00:14:17,800 --> 00:14:20,520
+that in a a
+
+340
+00:14:20,520 --> 00:14:22,640
+later episode and hopefully we can get a
+
+341
+00:14:22,640 --> 00:14:24,160
+partnership with them as well. We will
+
+342
+00:14:24,160 --> 00:14:25,120
+definitely try.
+
+343
+00:14:27,800 --> 00:14:30,480
+Also, another reason that we need it is
+
+344
+00:14:30,480 --> 00:14:33,040
+that there isn't a robust and user
+
+345
+00:14:33,040 --> 00:14:35,801
+friendly platform for vesting, so it
+
+346
+00:14:35,801 --> 00:14:37,321
+really needs to be done. It's a part of
+
+347
+00:14:37,321 --> 00:14:39,001
+the inner structure that doesn't quite
+
+348
+00:14:39,001 --> 00:14:41,721
+yet exist and especially
+
+349
+00:14:41,721 --> 00:14:44,481
+hasn't been incentivized. OK,
+
+350
+00:14:44,481 --> 00:14:47,081
+so who are the builders? I am Fritosi, I
+
+351
+00:14:47,481 --> 00:14:50,281
+am the project manager I
+
+352
+00:14:50,321 --> 00:14:53,171
+guess and. I
+
+353
+00:14:53,251 --> 00:14:55,371
+can't claim the idea for myself because
+
+354
+00:14:55,371 --> 00:14:58,331
+it's an idea that has existed. I've we've
+
+355
+00:14:58,331 --> 00:15:01,321
+just. Found some ways to improve upon
+
+356
+00:15:01,321 --> 00:15:04,041
+the idea. Currently the developer who
+
+357
+00:15:04,041 --> 00:15:06,481
+we will be tasking with building this
+
+358
+00:15:06,481 --> 00:15:09,441
+will be a Snowman or Bino as he's
+
+359
+00:15:09,441 --> 00:15:11,841
+also known. He was one of the
+
+360
+00:15:11,841 --> 00:15:14,801
+developers in Bitter 5 in its early
+
+361
+00:15:14,801 --> 00:15:17,481
+stages. So although he did not develop
+
+362
+00:15:17,481 --> 00:15:20,321
+the smart contracts behind Bidify, he did
+
+363
+00:15:20,321 --> 00:15:23,161
+improve them. He added a buy it
+
+364
+00:15:23,161 --> 00:15:25,131
+now system. And
+
+365
+00:15:26,291 --> 00:15:28,331
+he added, he's added quite a few things,
+
+366
+00:15:28,331 --> 00:15:30,451
+but we do have a Meet the developer Park
+
+367
+00:15:30,451 --> 00:15:33,251
+video on this channel with Snowman
+
+368
+00:15:33,251 --> 00:15:35,811
+or Bino. So I will put a link to that in
+
+369
+00:15:35,811 --> 00:15:37,811
+the description or you can just search
+
+370
+00:15:37,811 --> 00:15:40,171
+the channel, Smartreach channel and you
+
+371
+00:15:40,171 --> 00:15:42,881
+will find it. Biden has got a a
+
+372
+00:15:43,041 --> 00:15:45,601
+long history of working with us. He's
+
+373
+00:15:45,601 --> 00:15:47,961
+worked with us on quite a few things. So
+
+374
+00:15:48,241 --> 00:15:50,961
+we're quite sure he will be able
+
+375
+00:15:50,961 --> 00:15:52,441
+to pull this one off.
+
+376
+00:15:53,761 --> 00:15:56,442
+And if he can't, we have other developers
+
+377
+00:15:56,442 --> 00:15:58,482
+in the wings waiting to pick up where he
+
+378
+00:15:58,482 --> 00:16:00,282
+left off. But we're confident he can
+
+379
+00:16:00,282 --> 00:16:03,202
+build it. Early suggestions say
+
+380
+00:16:03,202 --> 00:16:05,562
+that the development of the
+
+381
+00:16:05,562 --> 00:16:08,292
+platform. Altogether will take possibly
+
+382
+00:16:08,292 --> 00:16:11,212
+around two months, so we should be
+
+383
+00:16:11,212 --> 00:16:14,092
+able to finish it in three
+
+384
+00:16:14,092 --> 00:16:16,572
+good sprints. I would say each Sprint.
+
+385
+00:16:16,882 --> 00:16:19,202
+Maybe last in two weeks.
+
+386
+00:16:20,322 --> 00:16:22,482
+So we should be able to to do that.
+
+387
+00:16:24,202 --> 00:16:26,962
+I think that's it with Barno.
+
+388
+00:16:27,522 --> 00:16:30,242
+Sorry. Let's move on. OK, so what's our
+
+389
+00:16:30,242 --> 00:16:31,642
+path to success? So this is a very
+
+390
+00:16:31,642 --> 00:16:34,322
+loosely written
+
+391
+00:16:34,482 --> 00:16:35,322
+road map.
+
+392
+00:16:37,332 --> 00:16:38,692
+So we plan to launch Q
+
+393
+00:16:38,692 --> 00:16:41,652
+ 12025. We want to be integrated
+
+394
+00:16:41,652 --> 00:16:43,492
+with the lead the the leading blockchain
+
+395
+00:16:43,492 --> 00:16:45,812
+networks, the top EVM chains.
+
+396
+00:16:47,132 --> 00:16:49,452
+We really want to be with Solana as well,
+
+397
+00:16:49,452 --> 00:16:51,052
+but it's a completely different
+
+398
+00:16:51,932 --> 00:16:54,412
+technology. Solana is to a complete
+
+399
+00:16:54,412 --> 00:16:56,772
+different technology to the EVM so.
+
+400
+00:16:57,482 --> 00:17:00,402
+We can't as easily port from
+
+401
+00:17:00,882 --> 00:17:03,722
+EVM to Solana as we can from EVM
+
+402
+00:17:03,722 --> 00:17:06,442
+to another EVM. So we will start with the
+
+403
+00:17:06,442 --> 00:17:09,362
+EVM as overall it's possibly
+
+404
+00:17:09,562 --> 00:17:10,842
+slightly more market share
+
+405
+00:17:12,162 --> 00:17:13,842
+expansion or functional features,
+
+406
+00:17:13,842 --> 00:17:16,082
+features or functionality. At the end of
+
+407
+00:17:16,082 --> 00:17:18,642
+this show, I will speak briefly
+
+408
+00:17:18,642 --> 00:17:21,403
+to what features our
+
+409
+00:17:21,403 --> 00:17:24,123
+functionality we are planning to add in
+
+410
+00:17:24,123 --> 00:17:26,213
+the future. Partnerships with top
+
+411
+00:17:26,213 --> 00:17:29,163
+blockchain projects. We will be working
+
+412
+00:17:29,163 --> 00:17:31,883
+on that as soon as possible. This video
+
+413
+00:17:31,883 --> 00:17:33,323
+will also serve as.
+
+414
+00:17:35,133 --> 00:17:37,653
+A call to action for grant
+
+415
+00:17:38,413 --> 00:17:39,813
+teams and.
+
+416
+00:17:41,813 --> 00:17:44,733
+Other such funding methods which we will
+
+417
+00:17:44,733 --> 00:17:47,133
+be applying for on the top ten
+
+418
+00:17:47,133 --> 00:17:49,653
+Evms that we are planning to build on.
+
+419
+00:17:50,133 --> 00:17:52,413
+So if we do get those grants or that
+
+420
+00:17:52,413 --> 00:17:55,293
+funding, what it also hopefully will
+
+421
+00:17:55,293 --> 00:17:57,893
+do is it will lead us to get connections
+
+422
+00:17:57,893 --> 00:17:59,653
+to the other top projects on those
+
+423
+00:17:59,653 --> 00:18:01,843
+networks. Which will
+
+424
+00:18:02,403 --> 00:18:05,043
+enhance our ability to get
+
+425
+00:18:05,043 --> 00:18:05,683
+partnerships.
+
+426
+00:18:08,813 --> 00:18:10,573
+Finally, we want to have continued
+
+427
+00:18:10,573 --> 00:18:13,493
+development and innovation similar
+
+428
+00:18:13,493 --> 00:18:16,413
+to Bidify and Vulcan Launchpad once it's
+
+429
+00:18:16,413 --> 00:18:18,573
+built. That's only the beginning. The
+
+430
+00:18:18,573 --> 00:18:21,333
+plan is to keep it ahead of the game, to
+
+431
+00:18:21,333 --> 00:18:23,573
+keep it up to date with the
+
+432
+00:18:24,253 --> 00:18:26,373
+the growing, I
+
+433
+00:18:26,413 --> 00:18:28,973
+guess, philosophies and
+
+434
+00:18:29,013 --> 00:18:31,733
+ethos and functionality.
+
+435
+00:18:32,643 --> 00:18:34,843
+Behind crypto. So
+
+436
+00:18:35,603 --> 00:18:37,803
+that's how a new state based road map. Of
+
+437
+00:18:37,803 --> 00:18:40,443
+course the road maps are always
+
+438
+00:18:40,443 --> 00:18:43,244
+fluent and I expect this road map
+
+439
+00:18:43,244 --> 00:18:45,484
+to become more fleshed out over time
+
+440
+00:18:45,644 --> 00:18:48,524
+with time scales of when we plan to do
+
+441
+00:18:48,524 --> 00:18:51,124
+these things. But now is a little bit too
+
+442
+00:18:51,124 --> 00:18:54,004
+early to say, OK, so how
+
+443
+00:18:54,004 --> 00:18:55,844
+are we going to ensure trust and safety?
+
+444
+00:18:55,844 --> 00:18:58,164
+We touched on it before, so I'll keep it
+
+445
+00:18:58,164 --> 00:19:01,084
+brief. We want auditable smart contracts.
+
+446
+00:19:02,014 --> 00:19:04,054
+Auditable and verified, that's.
+
+447
+00:19:05,394 --> 00:19:07,314
+I want the beauties of the EVM. You'll be
+
+448
+00:19:07,314 --> 00:19:09,714
+able to see what exactly is you are
+
+449
+00:19:09,714 --> 00:19:12,234
+working with and you can audit those
+
+450
+00:19:12,234 --> 00:19:15,074
+contracts yourself if you want to, but
+
+451
+00:19:15,074 --> 00:19:17,794
+we will audit them too. Anti
+
+452
+00:19:17,794 --> 00:19:20,714
+flash mechanisms, how those will work at
+
+453
+00:19:21,434 --> 00:19:24,034
+the moment is that the price will need to
+
+454
+00:19:24,034 --> 00:19:25,674
+remain above a certain level for a
+
+455
+00:19:25,674 --> 00:19:27,594
+certain length of time, so.
+
+456
+00:19:29,454 --> 00:19:31,894
+We're thinking somewhere between 24
+
+457
+00:19:31,894 --> 00:19:34,734
+hours to one week should be
+
+458
+00:19:34,734 --> 00:19:36,494
+around the time that price should stay
+
+459
+00:19:36,494 --> 00:19:39,404
+above a level before. Release is
+
+460
+00:19:40,444 --> 00:19:43,404
+eligible and people can activate it. Once
+
+461
+00:19:43,404 --> 00:19:45,964
+you activate release, which should be be
+
+462
+00:19:45,964 --> 00:19:48,764
+which should be possible from any wallet.
+
+463
+00:19:48,764 --> 00:19:50,084
+So it's not only the people who are old
+
+464
+00:19:50,084 --> 00:19:51,564
+tokens that can activate the release. It
+
+465
+00:19:51,564 --> 00:19:53,564
+should be anybody that can activate the
+
+466
+00:19:53,564 --> 00:19:56,524
+release of these tokens. And we
+
+467
+00:19:56,524 --> 00:19:58,044
+will have regular audits. The reason why
+
+468
+00:19:58,044 --> 00:19:59,284
+we'll have regular audits is because
+
+469
+00:19:59,284 --> 00:20:00,564
+we'll be having regular updates to the
+
+470
+00:20:00,564 --> 00:20:02,844
+code base. Every time you have an update,
+
+471
+00:20:02,844 --> 00:20:04,484
+you potentially introduce new
+
+472
+00:20:04,484 --> 00:20:06,445
+vulnerabilities. Also, there are new
+
+473
+00:20:06,445 --> 00:20:07,965
+vulnerabilities being found every day.
+
+474
+00:20:09,245 --> 00:20:11,525
+So we will need to have regular audits.
+
+475
+00:20:11,685 --> 00:20:13,765
+By regular I mean.
+
+476
+00:20:15,965 --> 00:20:18,925
+Every six to 12 months, assuming there
+
+477
+00:20:18,925 --> 00:20:21,845
+are no changes to
+
+478
+00:20:21,845 --> 00:20:24,485
+the code base. Otherwise, anytime we make
+
+479
+00:20:24,765 --> 00:20:26,925
+relevant or sizable changes to the code
+
+480
+00:20:26,925 --> 00:20:29,165
+base, we should have another audit.
+
+481
+00:20:30,525 --> 00:20:33,285
+OK. And that is it. So yeah,
+
+482
+00:20:33,285 --> 00:20:36,085
+join us in revolutionising the blockchain
+
+483
+00:20:36,525 --> 00:20:39,125
+and just making vesting
+
+484
+00:20:39,485 --> 00:20:40,445
+a more.
+
+485
+00:20:42,165 --> 00:20:45,125
+Accessible and useful tool
+
+486
+00:20:45,685 --> 00:20:48,645
+for everybody involved. What
+
+487
+00:20:48,645 --> 00:20:51,245
+I want to do, briefly is take you behind
+
+488
+00:20:51,245 --> 00:20:52,845
+the scenes. So here's our.
+
+489
+00:20:54,575 --> 00:20:56,735
+Working Document. This is a document that
+
+490
+00:20:56,735 --> 00:20:58,735
+we work within as a team.
+
+491
+00:21:00,005 --> 00:21:02,925
+We touch on, so we've got all of our
+
+492
+00:21:02,925 --> 00:21:04,405
+dolls lined up just so that we're all on
+
+493
+00:21:04,405 --> 00:21:06,605
+the same page. We've got all of our goals
+
+494
+00:21:06,605 --> 00:21:08,565
+lined up and the things that are the most
+
+495
+00:21:08,565 --> 00:21:10,285
+important. Oh, one thing I did touch on
+
+496
+00:21:10,285 --> 00:21:12,685
+was the escape hatch, which will
+
+497
+00:21:12,685 --> 00:21:15,085
+allow cryptosy Dow
+
+498
+00:21:15,645 --> 00:21:18,125
+members to remove the whole
+
+499
+00:21:18,125 --> 00:21:20,405
+funds of any particular.
+
+500
+00:21:22,215 --> 00:21:24,135
+Investing contract should that contract
+
+501
+00:21:24,775 --> 00:21:27,735
+for whatever reason no longer be fit for
+
+502
+00:21:27,735 --> 00:21:29,936
+purpose? So if a developer
+
+503
+00:21:29,936 --> 00:21:32,376
+accidentally says I want my token to
+
+504
+00:21:32,376 --> 00:21:35,246
+reach. trillion, when
+
+505
+00:21:35,246 --> 00:21:36,806
+really they meant I wanted to reach 1
+
+506
+00:21:36,806 --> 00:21:39,326
+billion. Then we should be able to
+
+507
+00:21:40,486 --> 00:21:43,046
+remove those funds to the
+
+508
+00:21:43,046 --> 00:21:45,726
+cryptosyde out, and then from there send
+
+509
+00:21:45,726 --> 00:21:48,686
+them to whoever needs them. That
+
+510
+00:21:48,686 --> 00:21:51,606
+will come with a lot of bureaucracy. So
+
+511
+00:21:51,606 --> 00:21:53,566
+chances are if you're a small project and
+
+512
+00:21:53,566 --> 00:21:55,286
+you've made that mistake, it's going to
+
+513
+00:21:55,286 --> 00:21:58,126
+be too bad, too sad. But that is one of
+
+514
+00:21:58,126 --> 00:21:59,686
+the things that happens within blockchain
+
+515
+00:21:59,686 --> 00:22:02,216
+anyway. We had the Dow. We've had things
+
+516
+00:22:02,216 --> 00:22:04,886
+like that we've had. Accidental lockups
+
+517
+00:22:04,886 --> 00:22:07,766
+like we did on, I want to say parity.
+
+518
+00:22:08,086 --> 00:22:11,006
+Umm. And I've done it myself,
+
+519
+00:22:11,006 --> 00:22:13,046
+so it does happen where you do lock
+
+520
+00:22:13,046 --> 00:22:15,046
+things up. You got to take your time. If
+
+521
+00:22:15,046 --> 00:22:16,846
+you don't, we do have an escape hatch,
+
+522
+00:22:16,846 --> 00:22:19,246
+which will be like a worst case scenario
+
+523
+00:22:19,246 --> 00:22:22,136
+system. That
+
+524
+00:22:22,136 --> 00:22:24,896
+does obviously introduce its own issues,
+
+525
+00:22:24,896 --> 00:22:27,696
+so the deployment of
+
+526
+00:22:27,696 --> 00:22:30,456
+this escape hatch will be I guess.
+
+527
+00:22:32,256 --> 00:22:34,336
+Possibly optional. So possibly if you
+
+528
+00:22:34,336 --> 00:22:35,976
+don't want to have the escape hatch, you
+
+529
+00:22:35,976 --> 00:22:38,136
+could possibly set up your existing
+
+530
+00:22:38,136 --> 00:22:40,176
+contract without it being there and then.
+
+531
+00:22:40,846 --> 00:22:42,926
+If you do it wrong or something gets
+
+532
+00:22:42,926 --> 00:22:44,406
+locked in that testing contract, then
+
+533
+00:22:44,406 --> 00:22:46,286
+you're on your own. So I think that makes
+
+534
+00:22:46,286 --> 00:22:46,806
+sense actually.
+
+535
+00:22:48,376 --> 00:22:50,736
+Specification, vesting schedules, price
+
+536
+00:22:50,736 --> 00:22:53,177
+base, audited smart contracts,
+
+537
+00:22:53,697 --> 00:22:56,097
+we discussed the the fees
+
+538
+00:22:57,017 --> 00:22:59,737
+already and our milestones. We
+
+539
+00:22:59,737 --> 00:23:02,297
+also discussed I think maybe this Q
+
+540
+00:23:02,297 --> 00:23:04,977
+3 might be moved forward to Q2,
+
+541
+00:23:04,977 --> 00:23:07,417
+possibly even Q1 if we can, if we can
+
+542
+00:23:08,097 --> 00:23:10,617
+ship it in time. And then we have our our
+
+543
+00:23:10,617 --> 00:23:13,297
+steps that will that will go through
+
+544
+00:23:13,297 --> 00:23:16,017
+each step will be another episode. So
+
+545
+00:23:16,017 --> 00:23:18,397
+create a team and the brand. Create a
+
+546
+00:23:18,397 --> 00:23:20,957
+logic document, create a wireframes,
+
+547
+00:23:21,037 --> 00:23:23,597
+create a front end, design
+
+548
+00:23:23,677 --> 00:23:25,557
+smart contracts, back end, integrate,
+
+549
+00:23:25,557 --> 00:23:28,317
+fully testing, launch and finally future
+
+550
+00:23:28,317 --> 00:23:31,077
+features NFT beneficiaries.
+
+551
+00:23:33,727 --> 00:23:36,487
+Instead of just your wallet being
+
+552
+00:23:36,487 --> 00:23:38,887
+thing, you want it being tracked
+
+553
+00:23:38,967 --> 00:23:41,807
+by the smart pun tracks
+
+554
+00:23:41,807 --> 00:23:44,207
+that have the resting tokens. You may get
+
+555
+00:23:44,207 --> 00:23:45,767
+an NFT. What that will mean is that you
+
+556
+00:23:45,767 --> 00:23:48,757
+can trade your vested token so. I may
+
+557
+00:23:48,757 --> 00:23:51,317
+have 1,000,000 vested
+
+558
+00:23:51,637 --> 00:23:53,837
+cryptosy coins that I can only release
+
+559
+00:23:53,837 --> 00:23:56,117
+when it reaches $1.00, but I may be able
+
+560
+00:23:56,117 --> 00:23:58,677
+to sell that share for $100
+
+561
+00:23:59,277 --> 00:24:02,157
+ tosomebody who believes that
+
+562
+00:24:02,157 --> 00:24:04,037
+we will reach that price more than I
+
+563
+00:24:04,037 --> 00:24:06,957
+believe I reach that price. So that
+
+564
+00:24:06,957 --> 00:24:09,277
+secondary market would be extremely
+
+565
+00:24:09,277 --> 00:24:11,157
+interesting. So we are considering a
+
+566
+00:24:11,157 --> 00:24:13,397
+building around that it it will also
+
+567
+00:24:13,517 --> 00:24:15,798
+possibly provide another income source if
+
+568
+00:24:15,798 --> 00:24:18,448
+there is. A Some sort of tax
+
+569
+00:24:18,528 --> 00:24:21,518
+on the. Selling of
+
+570
+00:24:21,518 --> 00:24:23,278
+the NFTS from one person to another.
+
+571
+00:24:25,088 --> 00:24:27,808
+AI support I touched on monitor alerts
+
+572
+00:24:28,448 --> 00:24:31,368
+would also be useful. So you may get a
+
+573
+00:24:31,368 --> 00:24:33,048
+text message or a Telegram message or an
+
+574
+00:24:33,048 --> 00:24:35,608
+ e-mail to say that your
+
+575
+00:24:35,608 --> 00:24:37,808
+token is near its resting target.
+
+576
+00:24:38,608 --> 00:24:40,368
+It would be a lovely thing, like a
+
+577
+00:24:40,368 --> 00:24:43,328
+celebration time. I'm about to be able
+
+578
+00:24:43,328 --> 00:24:46,128
+to release some of my tokens. Vested
+
+579
+00:24:46,128 --> 00:24:48,968
+liquidity will be, I guess, where
+
+580
+00:24:48,968 --> 00:24:51,128
+we take the vested tokens.
+
+581
+00:24:51,638 --> 00:24:53,478
+And we put them into.
+
+582
+00:24:55,438 --> 00:24:57,958
+Liquidity pool and we then have the
+
+583
+00:24:57,958 --> 00:24:59,438
+rewards from that liquidity pool be
+
+584
+00:24:59,438 --> 00:25:00,918
+shared amongst all the people who have
+
+585
+00:25:00,918 --> 00:25:02,838
+vested tokens, which would incentivise
+
+586
+00:25:02,838 --> 00:25:04,758
+your community to come vest with you
+
+587
+00:25:05,038 --> 00:25:06,638
+because they will then benefit from the
+
+588
+00:25:06,638 --> 00:25:08,798
+trading fees as well as
+
+589
+00:25:08,798 --> 00:25:11,638
+strengthening the tokenomics of their
+
+590
+00:25:11,638 --> 00:25:14,118
+project. And then
+
+591
+00:25:14,118 --> 00:25:16,758
+finally a faith-based
+
+592
+00:25:16,758 --> 00:25:19,278
+audit. It's important
+
+593
+00:25:19,758 --> 00:25:22,318
+that we build something that uses
+
+594
+00:25:22,318 --> 00:25:25,198
+worldwide can get involved in. Which
+
+595
+00:25:25,198 --> 00:25:27,678
+means it has to adhere to their
+
+596
+00:25:28,198 --> 00:25:30,958
+their view of the world. And we have had
+
+597
+00:25:30,958 --> 00:25:33,598
+some projects which we have decided not
+
+598
+00:25:33,598 --> 00:25:36,528
+to build which. Impinge on
+
+599
+00:25:36,528 --> 00:25:39,169
+certain people's faiths. So we're going
+
+600
+00:25:39,169 --> 00:25:41,489
+to audit that. Not to say that if it
+
+601
+00:25:41,489 --> 00:25:43,369
+doesn't align with a certain person's
+
+602
+00:25:43,369 --> 00:25:45,609
+faith that we won't build it, but just
+
+603
+00:25:45,609 --> 00:25:48,569
+that we're on top of that and we
+
+604
+00:25:48,569 --> 00:25:50,809
+make sure that our users are also on top
+
+605
+00:25:50,809 --> 00:25:53,369
+of that. So we can say this is
+
+606
+00:25:53,409 --> 00:25:56,249
+OK for you to use as there are.
+
+607
+00:25:57,199 --> 00:25:57,799
+Not
+
+608
+00:25:59,359 --> 00:26:02,199
+overwhelmingly high interest
+
+609
+00:26:02,199 --> 00:26:04,559
+being earned or usury or any of these
+
+610
+00:26:04,559 --> 00:26:06,839
+other sorts of things that can turn up in
+
+611
+00:26:06,839 --> 00:26:09,639
+this minefield of a world we have
+
+612
+00:26:09,639 --> 00:26:11,519
+now where people from all over the world
+
+613
+00:26:11,519 --> 00:26:14,119
+are expected to use the same tools. So
+
+614
+00:26:14,119 --> 00:26:15,639
+I've been crypto. See, this has been your
+
+615
+00:26:15,639 --> 00:26:18,079
+introduction to Cryptosyvest.
+
+616
+00:26:18,879 --> 00:26:21,679
+I hope you have understood exactly what
+
+617
+00:26:21,679 --> 00:26:24,329
+it is we are planning to do. To put it
+
+618
+00:26:24,329 --> 00:26:26,769
+into a nutshell, in case you haven't, is.
+
+619
+00:26:27,999 --> 00:26:30,559
+Develop underwater token. Developer
+
+620
+00:26:30,559 --> 00:26:32,519
+locks up a certain amount of token.
+
+621
+00:26:32,759 --> 00:26:34,879
+Developer can only take the token back
+
+622
+00:26:34,879 --> 00:26:36,839
+when the project reaches a certain price.
+
+623
+00:26:37,039 --> 00:26:39,799
+Developer then is super incentivized for
+
+624
+00:26:39,799 --> 00:26:42,159
+the token to reach a certain price and he
+
+625
+00:26:42,159 --> 00:26:45,039
+cannot take his ball and leave. He can
+
+626
+00:26:45,039 --> 00:26:47,559
+leave if he wants to, but if he does, he
+
+627
+00:26:47,559 --> 00:26:48,999
+is leaving that
+
+628
+00:26:49,719 --> 00:26:51,679
+reward in the.
+
+629
+00:26:53,849 --> 00:26:56,409
+In the vesting project, if the project
+
+630
+00:26:56,409 --> 00:26:58,569
+dies, his portion of it dies with it.
+
+631
+00:27:00,319 --> 00:27:03,200
+When we have NFTS, the developer will
+
+632
+00:27:03,200 --> 00:27:05,120
+get an NFT, which makes the community
+
+633
+00:27:05,120 --> 00:27:08,040
+take over of any type much
+
+634
+00:27:08,040 --> 00:27:10,880
+more viable. The developer
+
+635
+00:27:10,880 --> 00:27:13,320
+can then give the NFT to whoever decides
+
+636
+00:27:13,320 --> 00:27:16,200
+to take over a project, and if they trust
+
+637
+00:27:16,200 --> 00:27:18,920
+that developer not hiding another massive
+
+638
+00:27:18,920 --> 00:27:20,640
+amount of tokens elsewhere, which they
+
+639
+00:27:20,640 --> 00:27:22,920
+can verify to a degree by using bubble
+
+640
+00:27:22,920 --> 00:27:25,330
+maps, they can at least mitigate it. Then
+
+641
+00:27:25,330 --> 00:27:28,050
+they may buy the dev rights off of
+
+642
+00:27:28,050 --> 00:27:31,040
+that guy and get the NFT. And then when I
+
+643
+00:27:31,040 --> 00:27:32,840
+had to reach a certain light, then this
+
+644
+00:27:32,840 --> 00:27:34,840
+new death can claim his
+
+645
+00:27:35,320 --> 00:27:38,120
+rewards. That is, in a nutshell,
+
+646
+00:27:38,120 --> 00:27:40,720
+what Cryptosy Rest will be doing. We are
+
+647
+00:27:40,720 --> 00:27:42,720
+going to be building this regardless. So
+
+648
+00:27:42,840 --> 00:27:44,520
+if you're watching this video because of
+
+649
+00:27:44,520 --> 00:27:46,680
+a grant and you're considering whether or
+
+650
+00:27:46,680 --> 00:27:49,600
+not to allow the
+
+651
+00:27:49,600 --> 00:27:52,570
+grant. We're
+
+652
+00:27:52,570 --> 00:27:53,930
+kind of oxygen out of courtesy. We're
+
+653
+00:27:53,930 --> 00:27:55,850
+already building on networks where we are
+
+654
+00:27:55,850 --> 00:27:57,650
+free to build anyway, so we are going to
+
+655
+00:27:57,650 --> 00:28:00,520
+deploy on the network anyway. Regardless
+
+656
+00:28:00,520 --> 00:28:02,440
+of whether or not you offer the grant, of
+
+657
+00:28:02,440 --> 00:28:03,960
+course the grant will be nice. It will
+
+658
+00:28:03,960 --> 00:28:06,320
+help us to add bells and whistles. We can
+
+659
+00:28:06,320 --> 00:28:09,080
+pay for marketing or we can pay to
+
+660
+00:28:09,240 --> 00:28:10,920
+have business developers reach out to
+
+661
+00:28:10,920 --> 00:28:13,480
+other projects within that ecosystem.
+
+662
+00:28:13,800 --> 00:28:16,640
+And also it's, it's more of a
+
+663
+00:28:16,640 --> 00:28:19,440
+sign that you want us on the
+
+664
+00:28:19,440 --> 00:28:21,120
+network, you want this product on the
+
+665
+00:28:21,120 --> 00:28:24,000
+network and we go
+
+666
+00:28:24,000 --> 00:28:26,851
+to where we are loved. As
+
+667
+00:28:26,851 --> 00:28:28,971
+humans, we just do so.
+
+668
+00:28:29,881 --> 00:28:32,441
+I've been crypto see you have been
+
+669
+00:28:32,441 --> 00:28:34,721
+beautiful and hopefully
+
+670
+00:28:35,521 --> 00:28:37,161
+I will see you in the next episode where
+
+671
+00:28:37,361 --> 00:28:40,161
+we will discuss the brand
+
+672
+00:28:40,561 --> 00:28:43,441
+and everything around that, which at
+
+673
+00:28:43,441 --> 00:28:45,921
+this moment of time is actually complete.
+
+674
+00:28:46,241 --> 00:28:48,961
+And I think we can
+
+675
+00:28:49,041 --> 00:28:51,721
+see the logo up here just as a
+
+676
+00:28:51,721 --> 00:28:54,681
+here's one we produced earlier. And
+
+677
+00:28:54,681 --> 00:28:57,481
+this is going to be the the look
+
+678
+00:28:57,721 --> 00:28:59,721
+of the site or the look of the brand.
+
+679
+00:29:00,721 --> 00:29:03,521
+So facts watching and I will see
+
+680
+00:29:03,521 --> 00:29:05,681
+you in the next one please.
