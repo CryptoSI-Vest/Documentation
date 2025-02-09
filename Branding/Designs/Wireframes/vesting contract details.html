@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vesting Contract Details</title>
+    <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #eaeaea; /* Light Gray */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* HEADER */
+        .header {
+            width: 100%;
+            max-width: 1440px;
+            background-color: #252a34; /* Dark Gray */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #ffffff; /* White */
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #ffffff; /* White */
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: #3d79fb; /* Primary Blue */
+        }
+
+        .wallet-button {
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .wallet-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* MAIN CONTAINER */
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background-color: white;
+            padding: 30px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #252a34; /* Dark Gray */
+            margin-bottom: 20px;
+        }
+
+        /* CONTRACT SUMMARY */
+        .contract-summary {
+            background: #ffffff;
+            padding: 20px;
+            border: 2px solid #3d79fb; /* Primary Blue */
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .contract-summary p {
+            margin: 5px 0;
+            font-weight: bold;
+            color: #252a34;
+        }
+
+        /* PROGRESS BAR */
+        .progress-container {
+            margin-bottom: 20px;
+        }
+
+        .progress-label {
+            font-weight: bold;
+            color: #252a34;
+            margin-bottom: 5px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #eaeaea;
+            border-radius: 5px;
+            overflow: hidden;
+            border: 1px solid #3d79fb; /* Primary Blue */
+        }
+
+        .progress-fill {
+            height: 100%;
+            width: 50%; /* Example: 50% released */
+            background-color: #3d79fb; /* Primary Blue */
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            line-height: 20px;
+        }
+
+        /* PRICE MONITORING */
+        .price-monitor {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #3d79fb;
+            margin-bottom: 20px;
+        }
+
+        /* TRANSACTION HISTORY */
+        .transaction-history {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #3d79fb;
+            margin-bottom: 20px;
+        }
+
+        .transaction-history ul {
+            list-style-type: none;
+        }
+
+        .transaction-history li {
+            padding: 5px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* EDIT OPTIONS */
+        .edit-options {
+            text-align: center;
+        }
+
+        .edit-button {
+            width: 100%;
+            padding: 10px;
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .edit-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* FOOTER */
+        .footer {
+            width: 100%;
+            max-width: 1440px;
+            text-align: center;
+            padding: 20px;
+            background-color: #252a34; /* Dark Gray */
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">CryptoSI Vest</div>
+        <nav class="nav-links">
+            <a href="#">Dashboard</a>
+            <a href="#">Create</a>
+            <a href="#">Explore</a>
+            <a href="#">Claim</a>
+        </nav>
+        <button class="wallet-button">Connect Wallet</button>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+        <h2>Vesting Contract Details</h2>
+
+        <!-- Contract Summary -->
+        <div class="contract-summary">
+            <p><strong>Token:</strong> XYZ Token</p>
+            <p><strong>Total Vested:</strong> 100,000 XYZ</p>
+            <p><strong>Vesting Type:</strong> Price-Based</p>
+            <p><strong>Unlock Condition:</strong> When price reaches $5.00</p>
+        </div>
+
+        <!-- Release Progress -->
+        <div class="progress-container">
+            <div class="progress-label">Release Progress:</div>
+            <div class="progress-bar">
+                <div class="progress-fill">50%</div>
+            </div>
+        </div>
+
+        <!-- Price Monitoring -->
+        <div class="price-monitor">
+            <p><strong>Current Price:</strong> $3.20</p>
+            <p><strong>Target Price:</strong> $5.00</p>
+        </div>
+
+        <!-- Transaction History -->
+        <div class="transaction-history">
+            <h3>Transaction History</h3>
+            <ul>
+                <li>Feb 1, 2025 – 5,000 

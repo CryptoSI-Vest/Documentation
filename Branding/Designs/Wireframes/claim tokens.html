@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Tokens</title>
+    <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #eaeaea; /* Light Gray */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* HEADER */
+        .header {
+            width: 100%;
+            max-width: 1440px;
+            background-color: #252a34; /* Dark Gray */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #ffffff; /* White */
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #ffffff; /* White */
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: #3d79fb; /* Primary Blue */
+        }
+
+        .wallet-button {
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .wallet-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* MAIN CONTAINER */
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background-color: white;
+            padding: 30px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #252a34; /* Dark Gray */
+            margin-bottom: 20px;
+        }
+
+        /* ELIGIBLE TOKENS */
+        .eligible-tokens {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #3d79fb;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            color: #252a34;
+        }
+
+        .eligible-tokens p {
+            margin: 5px 0;
+        }
+
+        /* CONTRACT BREAKDOWN */
+        .contract-breakdown {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #3d79fb;
+            margin-bottom: 20px;
+        }
+
+        .contract-breakdown table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .contract-breakdown th, .contract-breakdown td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .contract-breakdown th {
+            background-color: #3d79fb;
+            color: white;
+        }
+
+        .contract-logo {
+            width: 30px;
+            height: 30px;
+            background-color: #ddd;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .view-link {
+            color: #3d79fb;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .view-link:hover {
+            text-decoration: underline;
+        }
+
+        /* GAS FEE ESTIMATOR */
+        .gas-fee {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #3d79fb;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 16px;
+            color: #252a34;
+        }
+
+        /* CHECKBOXES FOR BATCH CLAIM */
+        .batch-claim {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .batch-claim input {
+            margin-right: 10px;
+            transform: scale(1.2);
+        }
+
+        /* CLAIM BUTTON */
+        .claim-button {
+            width: 100%;
+            padding: 10px;
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .claim-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* FOOTER */
+        .footer {
+            width: 100%;
+            max-width: 1440px;
+            text-align: center;
+            padding: 20px;
+            background-color: #252a34; /* Dark Gray */
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">CryptoSI Vest</div>
+        <nav class="nav-links">
+            <a href="#">Dashboard</a>
+            <a href="#">Create</a>
+            <a href="#">Explore</a>
+            <a href="#">Claim</a>
+        </nav>
+        <button class="wallet-button">Connect Wallet</button>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+        <h2>Claim Tokens</h2>
+
+        <!-- Eligible Tokens -->
+        <div class="eligible-tokens">
+            <p>Total Eligible Tokens:</p>
+            <p><strong>10,000 XYZ</strong></p>
+            <p><strong>2,500 ABC</strong></p>
+        </div>
+
+        <!-- Vesting Contract Breakdown -->
+        <div class="contract-breakdown">
+            <h3>Vesting Contract Breakdown</h3>
+            <table>
+                <tr>
+                    <th>Token</th>
+                    <th>Vested Amount</th>
+                    <th>Claimable</th>
+                    <th>View</th>
+                    <th>Select</th>
+                </tr>
+                <tr>
+                    <td><span class="contract-logo"></span> XYZ Token</td>
+                    <td>50,000 XYZ</td>
+                    <td>10,000 XYZ</td>
+                    <td><a href="#" class="view-link">View Contract</a></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+                <tr>
+                    <td><span class="contract-logo"></span> ABC Token</td>
+                    <td>30,000 ABC</td>
+                    <td>2,500 ABC</td>
+                    <td><a href="#" class="view-link">View Contract</a></td>
+                    <td><input type="checkbox"></td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- Gas Fee Estimator -->
+        <div class="gas-fee">
+            <p>Estimated Gas Fee: <strong>0.002 ETH</strong></p>
+        </div>
+
+        <!-- Batch Claim Option -->
+        <div class="batch-claim">
+            <input type="checkbox" id="batch-claim">
+            <label for="batch-claim">Enable Batch Claim</label>
+        </div>
+
+        <!-- Claim Button -->
+        <button class="claim-button">Claim Selected Tokens</button>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>Terms | Privacy | Support</p>
+    </footer>
+
+</body>
+</html>

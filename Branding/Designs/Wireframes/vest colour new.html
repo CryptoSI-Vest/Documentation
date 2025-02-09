@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Vesting Contract</title>
+    <style>
+        /* Global Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #eaeaea; /* Light Gray */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* HEADER */
+        .header {
+            width: 100%;
+            max-width: 1440px;
+            background-color: #252a34; /* Dark Gray */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #ffffff; /* White */
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #ffffff; /* White */
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: #3d79fb; /* Primary Blue */
+        }
+
+        .wallet-button {
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .wallet-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* MAIN CONTAINER */
+        .container {
+            width: 100%;
+            max-width: 800px;
+            background-color: white;
+            padding: 30px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #252a34; /* Dark Gray */
+            margin-bottom: 20px;
+        }
+
+        /* FORM STYLES */
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #252a34; /* Dark Gray */
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #3d79fb; /* Primary Blue */
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .vesting-options {
+            display: flex;
+            gap: 10px;
+        }
+
+        .vesting-options label {
+            font-weight: normal;
+        }
+
+        .actions {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .action-button {
+            width: 100%;
+            padding: 10px;
+            background-color: #3d79fb; /* Primary Blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+            margin-top: 10px;
+        }
+
+        .action-button:hover {
+            background-color: #0b56fa; /* Secondary Blue */
+        }
+
+        /* FOOTER */
+        .footer {
+            width: 100%;
+            max-width: 1440px;
+            text-align: center;
+            padding: 20px;
+            background-color: #252a34; /* Dark Gray */
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">CryptoSI Vest</div>
+        <nav class="nav-links">
+            <a href="#">Dashboard</a>
+            <a href="#">Create</a>
+            <a href="#">Explore</a>
+            <a href="#">Claim</a>
+        </nav>
+        <button class="wallet-button">Connect Wallet</button>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+        <h2>Create Vesting Contract</h2>
+
+        <!-- Select Token -->
+        <div class="form-group">
+            <label for="token">Select Token:</label>
+            <input type="text" id="token" placeholder="Enter token contract address">
+        </div>
+
+        <!-- Vesting Type -->
+        <div class="form-group">
+            <label>Vesting Type:</label>
+            <div class="vesting-options">
+                <label><input type="radio" name="vesting-type" value="time-based"> Time-Based</label>
+                <label><input type="radio" name="vesting-type" value="price-based"> Price-Based</label>
+                <label><input type="radio" name="vesting-type" value="hybrid"> Hybrid</label>
+            </div>
+        </div>
+
+        <!-- Define Conditions -->
+        <div class="form-group">
+            <label for="vesting-condition">Define Vesting Condition:</label>
+            <input type="text" id="vesting-condition" placeholder="E.g. Unlock after 6 months or at $5.00">
+        </div>
+
+        <!-- Release Mechanism -->
+        <div class="form-group">
+            <label>Release Mechanism:</label>
+            <select>
+                <option>Linear Release</option>
+                <option>Cliff Vesting</option>
+                <option>All-at-Once Release</option>
+            </select>
+        </div>
+
+        <!-- Add Beneficiary -->
+        <div class="form-group">
+            <label for="beneficiary">Add Beneficiary Wallet Address:</label>
+            <input type="text" id="beneficiary" placeholder="0x...">
+        </div>
+
+        <!-- Actions -->
+        <div class="actions">
+            <button class="action-button">Review & Deploy Contract</button>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>Terms | Privacy | Support</p>
+    </footer>
+
+</body>
+</html>

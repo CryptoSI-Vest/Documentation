@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoSI Vest Dashboard Wireframe</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* HEADER */
+        .header {
+            width: 100%;
+            max-width: 1440px;
+            background-color: #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+
+        .wallet-button {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* MAIN LAYOUT */
+        .container {
+            display: flex;
+            width: 100%;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+
+        .left-column {
+            width: 70%;
+            padding: 20px;
+        }
+
+        .right-column {
+            width: 30%;
+            padding: 20px;
+            background-color: #eee;
+        }
+
+        /* STAT BOXES */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .stat-box {
+            background-color: white;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        /* TABLE */
+        .vesting-table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+        }
+
+        .vesting-table th, .vesting-table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        /* GRAPH PLACEHOLDER */
+        .graph {
+            width: 100%;
+            height: 200px;
+            background-color: white;
+            text-align: center;
+            line-height: 200px;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+        }
+
+        /* RECENT TRANSACTIONS */
+        .transactions, .quick-actions {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+        }
+
+        /* FOOTER */
+        .footer {
+            width: 100%;
+            max-width: 1440px;
+            text-align: center;
+            padding: 20px;
+            background-color: #ddd;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="logo">CryptoSI Vest</div>
+        <nav class="nav-links">
+            <a href="#">Dashboard</a>
+            <a href="#">Create</a>
+            <a href="#">Explore</a>
+            <a href="#">Claim</a>
+        </nav>
+        <button class="wallet-button">Connect Wallet</button>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+        <!-- LEFT COLUMN -->
+        <div class="left-column">
+            <!-- Stats Boxes -->
+            <div class="stats">
+                <div class="stat-box">Total Vested: 100,000 XYZ</div>
+                <div class="stat-box">Pending Tokens: 50,000 XYZ</div>
+                <div class="stat-box">Eligible to Claim: 10,000 XYZ</div>
+                <div class="stat-box">Price Target: $5.00</div>
+            </div>
+
+            <!-- Active Vesting Contracts Table -->
+            <table class="vesting-table">
+                <tr>
+                    <th>Token Name</th>
+                    <th>Vesting Type</th>
+                    <th>Total Vested</th>
+                    <th>Next Unlock</th>
+                    <th>Target Price</th>
+                    <th>Status</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td>XYZ Token</td>
+                    <td>Hybrid</td>
+                    <td>100,000 XYZ</td>
+                    <td>Feb 15</td>
+                    <td>$5.00</td>
+                    <td>Locked</td>
+                    <td><button>View</button></td>
+                </tr>
+                <tr>
+                    <td>ABC Token</td>
+                    <td>Time-Based</td>
+                    <td>50,000 ABC</td>
+                    <td>Mar 1</td>
+                    <td>N/A</td>
+                    <td>Releasing</td>
+                    <td><button>View</button></td>
+                </tr>
+            </table>
+
+            <!-- Vesting Progress Graph -->
+            <div class="graph">[Vesting Progress Graph Placeholder]</div>
+        </div>
+
+        <!-- RIGHT COLUMN -->
+        <div class="right-column">
+            <!-- Recent Transactions -->
+            <div class="transactions">
+                <h3>Recent Transactions</h3>
+                <p>Feb 1: 5,000 XYZ Released</p>
+                <p>Jan 20: New Vesting Contract Created</p>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="quick-actions">
+                <h3>Quick Actions</h3>
+                <button>Create Vesting</button>
+                <button>Claim Tokens</button>
+                <button>Explore Contracts</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <p>Terms | Privacy | Support</p>
+    </footer>
+
+</body>
+</html>
